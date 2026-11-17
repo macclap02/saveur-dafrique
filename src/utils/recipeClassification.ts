@@ -115,6 +115,7 @@ export function matchesQuery(recipe: Recipe, query: string): boolean {
             recipe.region,
             recipe.intro || '',
             recipe.description || '',
+            ...(recipe.aliases || []),
             ...(recipe.ingredients || []).map((i) => i.name),
         ].join(' ')
     );

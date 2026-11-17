@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { recipes } from '../data/recipes';
-import { ArrowLeft, Clock, Users, ChefHat, CheckCircle2, Circle, Play, X, ChevronRight, ChevronLeft, Sparkles } from 'lucide-react';
+import { ArrowLeft, Clock, Users, ChefHat, CheckCircle2, Circle, Play, X, ChevronRight, ChevronLeft, Sparkles, Globe } from 'lucide-react';
 import { cn } from '../lib/utils';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useAuth } from '../context/AuthContext';
@@ -102,6 +102,30 @@ export function RecipeDetail() {
             </div>
 
             <div className="max-w-md mx-auto p-8 -mt-8 bg-white rounded-t-[3rem] shadow-[0_-20px_50px_-20px_rgba(0,0,0,0.1)] relative z-10">
+                {/* Cultural Equivalents / Regional Aliases */}
+                {recipe.aliases && recipe.aliases.length > 0 && (
+                    <motion.div
+                        initial={{ opacity: 0, y: 10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        className="mb-8 p-4 bg-gradient-to-br from-orange-50/90 to-amber-50/50 border border-orange-100 rounded-2xl shadow-xs"
+                    >
+                        <div className="flex items-center gap-2 mb-2 text-xs font-bold text-orange-950 uppercase tracking-wider">
+                            <Globe className="w-3.5 h-3.5 text-primary" />
+                            <span>Variantes & appellations régionales</span>
+                        </div>
+                        <div className="flex flex-wrap gap-1.5">
+                            {recipe.aliases.slice(0, 6).map((alias, i) => (
+                                <span
+                                    key={i}
+                                    className="text-xs font-medium text-orange-950 bg-white/90 border border-orange-200/60 px-2.5 py-1 rounded-full capitalize shadow-xs"
+                                >
+                                    {alias}
+                                </span>
+                            ))}
+                        </div>
+                    </motion.div>
+                )}
+
                 {/* Info Bar */}
                 <div className="flex items-center justify-between mb-10 pb-8 border-b border-gray-100">
                     <div className="flex flex-col items-center">

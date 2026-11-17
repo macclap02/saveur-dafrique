@@ -50,6 +50,12 @@ export function RecipeCard({ recipe }: RecipeCardProps) {
                             {recipe.title}
                         </h3>
 
+                        {recipe.aliases && recipe.aliases.length > 0 && (
+                            <p className="text-xs text-orange-900/70 font-medium line-clamp-1 mb-2">
+                                <span className="font-semibold text-primary">Aussi :</span> {recipe.aliases.slice(0, 3).join(', ')}
+                            </p>
+                        )}
+
                         <div className="flex items-center gap-4 text-[11px] text-gray-400 mt-4 font-medium uppercase tracking-widest">
                             <div className="flex items-center gap-1.5 grayscale group-hover:grayscale-0 transition-all">
                                 <Clock className="w-3.5 h-3.5" />

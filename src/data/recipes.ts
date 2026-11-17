@@ -814,8 +814,8 @@ export const recipes: Recipe[] = [
             "Pressez absolument toute l'eau des épinards après les avoir blanchis : le secret d'un Efo Riro parfait est une sauce riche et épaisse, jamais noyée dans l'eau des légumes.",
             "Ne mixez pas les poivrons en purée liquide : laissez-les concassés avec de la texture pour garder le style yoruba authentique."
         ],
-        intro: "Une explosion de textures où les épinards fondants rencontrent l\\'huile de palme et le croquant de l\\'Iru.",
-        description: "Blanchir les épinards."
+        intro: "Une explosion de textures où les épinards fondants rencontrent le parfum fumé des poissons séchés et la chaleur du piment rouge.",
+        description: "L'Efo Riro est le ragoût de légumes le plus vénéré du peuple Yoruba du sud-ouest du Nigeria. Son nom signifie littéralement « légumes remués » en langue yoruba. Selon la tradition, ce plat ne se prépare pas comme une simple sauce mais comme une offrande royale, où les feuilles d'amarante ou d'épinards locaux (Shoko ou Tete) sont mariées à l'Iru (graines de néré fermentées / soumbala), au poisson séché fumé, aux écrevisses pilées et à l'huile de palme rouge pure. Dans les cosmogonies yorubas, ce mélange d'ingrédients de la terre, des fleuves et des forêts symbolise l'harmonie avec les orishas. C'est l'un des ragoûts fondateurs qui ont traversé l'Atlantique lors de la traite négrière pour donner naissance au Caruru à Bahia au Brésil et au Callaloo dans les Caraïbes, témoignant de la persistance indomptable de la mémoire culinaire africaine.",
     },
         {
         id: 'pepe-soup',
@@ -859,8 +859,8 @@ export const recipes: Recipe[] = [
             "Si vous utilisez de la viande de chèvre au lieu du poisson, faites-la cuire 40 minutes dans le bouillon aromatique avant d'ajouter les herbes pour qu'elle soit bien tendre.",
             "Les graines d'Ehuru (fausse muscade) et d'Uda (graines de Sélim) sont le cœur médicinal de la Pepe Soup : elles apportent cette chaleur bienfaisante qui dégage les voies respiratoires."
         ],
-        intro: "Une soupe herbacée et brûlante qui réveille les sens et soigne l\\'âme avec ses épices puissantes.",
-        description: "Bouillir la viande avec les épices."
+        intro: "Une infusion brûlante et herbacée d'épices médicinales rares, véritable remède de grand-mère qui réchauffe le corps et l'âme.",
+        description: "La Pepe Soup (ou Pepper Soup) est la reine des bouillons réconfortants d'Afrique de l'Ouest et du Golfe de Guinée, partagée du Nigeria au Ghana, en passant par le Cameroun et la Côte d'Ivoire. Bien plus qu'un simple repas, c'est une décoction médicinale millénaire préparée pour requinquer les femmes venant d'accoucher, soigner les coups de froid ou célébrer les retrouvailles nocturnes dans les maquis populaires. Son secret réside dans son mélange d'épices ancestrales torréfiées : l'Uda (poivre de Selim), l'Ehuru (fausse muscade africaine), l'Uziza (poivre noir d'Afrique de l'Ouest) et le piment rouge brûlant. Ce bouillon limpide mais foudroyant d'arômes a inspiré les soupes pimentées des marins et esclaves de la Caraïbe, rappelant que chaque gorgée est un rituel de guérison hérité des forêts tropicales.",
     },
         {
         id: 'kanda',
@@ -905,8 +905,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Ne remuez jamais les boulettes avec une spatule métallique pendant les 15 premières minutes de cuisson : secouez simplement la marmite pour faire rouler les boulettes dans la sauce."
         ],
-        intro: "De généreuses boulettes de graines de courge mijotées avec amour dans une sauce tomate onctueuse.",
-        description: "Piler les graines de courge et mélanger à la viande."
+        intro: "Des boulettes fondantes de viande et de graines de courge torréfiées, bercées dans une sauce tomate parfumée de Centrafrique.",
+        description: "Le Kanda (ou Kanda ti Nyma) est le plat de fête et de convivialité par excellence de la République Centrafricaine et du bassin de l'Oubangui. Son secret réside dans l'utilisation généreuse des graines de courge séchées et moulues (Egusi / Pistache africaine), qui remplacent la farine pour lier et attendrir la viande hachée de bœuf. Roulées à la main avec de l'ail pilé, du piment et des herbes locales, ces boulettes mijotent doucement dans une sauce tomate veloutée à l'huile rouge. C'est le repas dominical qui rassemble les grandes familles à Bangui, célébrant la richesse des récoltes vivrières des savanes centrafricaines.",
     },
         {
         id: 'liboke',
@@ -952,8 +952,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Passez impérativement les feuilles de bananier sur la flamme avant de plier : c'est le secret pour qu'elles deviennent souples comme du tissu sans se fendre."
         ],
-        intro: "Le parfum subtil de la feuille de bananier grillée libère un poisson fondant infusé d\\'aromates forestiers.",
-        description: "Mélanger poisson et épices."
+        intro: "La quintessence du fleuve Congo : des poissons d'eau douce cuits à l'étouffée dans la vapeur bienfaisante des feuilles de marantacée.",
+        description: "Le Liboke (ou Liboké) est une technique de cuisson ancestrale des peuples riverains du majestueux fleuve Congo et de ses affluents (notamment les Bangala et les Bobangi). Le mot désigne la papillote végétale confectionnée à partir des larges feuilles cireuses de Marantacée (Megaphrynium macrostachyum), résistantes aux braises vives. Le poisson frais d'eau douce (capitaine, silure ou tilapia) y est enfermé hermétiquement avec des tomates fraîches, des oignons doux, de l'ail, du gingembre et un piment habanero entier. Posé directement sur la cendre chaude ou la grille du feu de bois, le poisson cuit dans ses propres sucs sans aucune goutte d'huile ajoutée, imprégné du parfum herbacé et légèrement vanillé que la feuille chauffée libère. C'est l'un des modes de cuisson les plus sains, écologiques et purs au monde.",
     },
         {
         id: 'gumbo',
@@ -1100,8 +1100,8 @@ export const recipes: Recipe[] = [
             "Le vrai Jambalaya se prépare à la cocotte en fonte pour une chaleur homogène. Éviter les cocottes trop fines qui brûlent le fond.",
             "Pour un Jambalaya Créole plus rouge, doubler la quantité de tomates. Pour la version Cajun plus sèche, se passer des tomates."
         ],
-        intro: "Un riz festif né du carrefour des nations : la sainte trinité cajun, les viandes fumées et les crevettes du Golfe dans un chant de saveurs louisianais.",
-        description: "Le Jambalaya est l'emblème de la Louisiane créole, creuset culturel unique où se rencontrent les héritages espagnols (paella), français, africains et amérindiens. Né dans les bayous du XVIIIe siècle, ce plat de partage réunit tout ce que la nature louisianaise offre : le riz des marais, le gibier des bayous et les crustacés du Golfe. Il perpétue la mémoire des esclaves africains qui ont adapté leurs techniques de cuisson du riz à une-marmite pour créer ce chef-d'œuvre de la cuisine du Sud profond.",
+        intro: "Dans la marmite louisianaise, l'Afrique rencontre l'Espagne — le Jambalaya est le Jollof Rice du Mississippi.",
+        description: "Le Jambalaya est l'enfant métis de La Nouvelle-Orléans, ville où les cultures se sont heurtées, mélangées et sublimées comme nulle part ailleurs dans les Amériques. Son ancêtre le plus direct est le thiéboudienne — ou plus généralement le riz jollof — préparé par les peuples Wolof, Sérère et Mandé du Sénégal et de Gambie. La connexion linguistique est saisissante : le mot « jambalaya » contiendrait « djam » ou « jama » en wolof, signifiant « rassemblement » ou « fête », et « ya » rappelant des terminaisons de langues d'Afrique occidentale. Les esclaves sénégalais-wolof débarqués à La Nouvelle-Orléans au XVIIIe siècle étaient reconnus pour leur maîtrise de la culture du riz — une expertise qui fit la fortune de leurs maîtres louisianais. Dans les cuisines des grandes maisons créoles, ils recréèrent leur riz jollof en utilisant les ingrédients locaux : écrevisses, andouille cajun, crevettes du golfe, poivrons. Les Espagnols qui gouvernèrent brièvement la Louisiane y ajoutèrent leurs influences paella. Le résultat fut un plat qui porta toutes ces histoires à ébullition dans une seule marmite. Aujourd'hui, qu'il soit « Cajun » (sans tomate) ou « Créole » (avec tomate), le Jambalaya reste le plat de la rencontre — la preuve que la cuisine louisianaise est, dans ses racines les plus profondes, une cuisine africaine.",
         relatedRecipes: ["gumbo", "callaloo", "coucou-flying-fish", "hoppin-john"]
     },
 
@@ -1152,8 +1152,8 @@ export const recipes: Recipe[] = [
             "Écrasez une louche de haricots noirs cuits en purée et réincorporez-la à la cocotte : c'est le secret pour obtenir ce bouillon crémeux et dense si caractéristique.",
             "L'orange fraîche servie à côté coupe le gras des viandes et aide remarquablement à la digestion."
         ],
-        intro: "Le cœur battant du Brésil : un ragoût de haricots noirs et de viandes fumées, symbole de convivialité et de partage.",
-        description: "Faire tremper les haricots noirs toute la nuit.",
+        intro: "Haricots noirs et bas morceaux — la Feijoada est née dans les senzalas du Brésil et conquit les tables de tout un peuple.",
+        description: "La Feijoada brésilienne porte en elle l'une des histoires les plus douloureuses et les plus sublimées de l'Atlantique noir. Née dans les senzalas — ces baraquements surpeuplés où les esclaves étaient parqués sur les fazendas du Brésil colonial — elle est le récit de la créativité née de la privation absolue. Les maîtres des plantations gardaient pour eux les belles pièces de bœuf et de porc ; aux esclaves revenaient les bas morceaux que personne ne voulait : pieds de porc, oreilles, museaux, queues, os à moelle. Les esclaves africains — majoritairement d'origine Bantu, Yoruba, Fon et Angolaise — connaissaient l'art de faire de la nécessité une vertu. Ils mijotèrent ces abats pendant des heures avec les haricots noirs qu'ils cultivaient dans leurs jardins de case, héritage direct des haricots niébé et doliques d'Afrique. La lente cuisson à l'étouffée, parfumée aux épices et aux feuilles de laurier, transforma ces ingrédients de misère en un plat d'une profondeur gustative extraordinaire. Aujourd'hui, la Feijoada est le plat national du Brésil, servi le mercredi et le samedi dans tout le pays, des favelas aux restaurants gastronomiques de São Paulo. Mais ses origines restent gravées dans chaque haricot noir : c'est le plat que les esclaves ont légué en héritage à une nation entière, un festin arraché à l'oppression.",
         relatedRecipes: ['cachupa-rico', 'hoppin-john']
     },
         {
@@ -1200,8 +1200,8 @@ export const recipes: Recipe[] = [
             "Utilisez de l'eau glacée pour lier la pâte : le contraste avec l'huile brûlante à 180°C crée une croûte ultra-croustillante qui n'absorbe pas l'huile.",
             "Ne salez pas la pâte avant d'avoir goûté la morue effilochée, celle-ci apporte déjà le sel nécessaire."
         ],
-        intro: "De petites bouchées de mer croustillantes et épicées, véritable invitation au voyage sous le soleil des Antilles.",
-        description: "Dessaler la morue en la trempant dans l\\'eau froide (changer l\\'eau plusieurs fois).",
+        intro: "Le samedi matin aux Antilles sent le frisson de l'huile chaude et le parfum de la morue salée — l'accra, beignet de survie devenu roi des marchés créoles.",
+        description: "L'accra de morue est né dans la douleur et la nécessité. Pendant trois siècles d'économie de plantation, la morue salée d'Atlantique Nord — importée à bas coût depuis Terre-Neuve et l'Islande — constituait la ration protéinée imposée aux esclaves des îles sucrières. Dure, salée à l'excès, peu appétissante, cette morue de survie était pourtant la seule source de protéine animale accessible aux captifs des habitations guadeloupéennes, martiniquaises et haïtiennes. Avec le génie créateur propre aux peuples contraints, les femmes esclaves dessalèrent la morue à grande eau, l'effilochèrent en filaments fins, et l'intégrèrent à une pâte de farine de manioc ou de blé relevée de piment antillais et d'oignon-pays. Plongés dans l'huile bouillante, ces beignets minuscules se transformèrent en chef-d'œuvre de la friture créole. L'émancipation de 1848 libéra les corps ; les accras, eux, conquirent les marchés. Chaque samedi matin à Pointe-à-Pitre, Fort-de-France ou Port-au-Prince, les marchandes d'accras dressaient leur étal fumant, et tout un peuple venait y chercher, dans la chaleur de ces petites boules dorées, le plaisir simple d'une nourriture enfin choisie. Aujourd'hui, l'accra est l'ambassadeur festif et généreux de la cuisine antillaise — servi à l'apéritif, partagé entre amis, célébrant le fait d'être vivant et libre.",
         relatedRecipes: ['ata', 'acaraje']
     },
         {
@@ -1247,8 +1247,8 @@ export const recipes: Recipe[] = [
             "Le secret absolu de l'Acarajé : battre vigoureusement la pâte pendant 10 minutes à la cuillère en bois pour emprisonner l'air. Sans ce geste des Baianas, le beignet sera dense et lourd au lieu d'être aérien et croustillant.",
             "La friture doit obligatoirement se faire dans l'huile de palme rouge (dendê) pour obtenir la couleur rougeoyante et la saveur fumée caractéristique de Salvador de Bahia."
         ],
-        intro: "La reine des rues de Bahia : un beignet de haricots doré à l\\'huile de palme, garni de saveurs marines éclatantes.",
-        description: "Tremper les haricots 8h. Jeter l\\'eau, puis retirer les peaux en frottant sous l\\'eau courante. Rincer abondamment.",
+        intro: "Frit dans l'huile de dendê rouge comme la terre du Bénin, l'Acarajé est une prière en forme de beignet.",
+        description: "L'Acarajé est l'un des témoignages les plus vibrants de la survivance culturelle africaine au Brésil. Ce beignet de haricots niébé (feijão-fradinho) fermentés et frits dans l'huile de palme (dendê) est le jumeau brésilien de l'Akara du Bénin et du Nigéria. Son nom vient du yoruba : « acará » (boule de feu) et « jé » (manger) — littéralement « manger la boule de feu ». Les esclaves Yoruba déportés à Bahia au Brésil apportèrent avec eux non seulement la recette, mais tout un système de signification religieuse. Dans le Candomblé, la religion afro-brésilienne née de la résistance des esclaves Nagô/Yoruba, l'Acarajé est l'offrande sacrée d'Iansã (Oyá), déesse des vents et des tempêtes, et de Xangô, dieu de la foudre. Pendant des siècles, les prêtresses du Candomblé — les baianas de acarajé — vendaient ces beignets sur les marchés de Salvador de Bahia pour financer les terreiros (temples). Vêtues de blanc, chargées de turbans et de bijoux rituels, elles étaient à la fois commerçantes, prêtresses et gardiennes de la mémoire africaine. L'UNESCO a inscrit en 2004 « l'Office des baianas de acarajé » au Patrimoine Immatériel de l'Humanité. Chaque beignet frit dans l'huile de dendê rouge est une communion avec Oyá et un refus de l'oubli.",
         relatedRecipes: ['ata', 'accras-morue']
     },
         {
@@ -1275,7 +1275,7 @@ export const recipes: Recipe[] = [
             "Cuillère en bois"
         ],
         steps: [
-            { order: 1, description: "Émondage rapide des haricots : Tremper les haricots 20 minutes dans de l'eau tiède. Les frotter énergiquement entre vos paumes pour détacher les peaux. Verser l'eau avec les peaux qui flottent et répéter jusqu'à avoir des haricots blancs dépouillés de leur enveloppe.", duration: 20 },
+            { order: 1, description: "Plongez les haricots niébé dans un grand saladier d'eau froide et laissez-les s'imbiber pendant 20 à 30 minutes — ce premier bain ramollit la fine peau qui les enveloppe. Vient alors le geste ancestral de l'émondage : frottez vigoureusement les haricots entre vos paumes, comme si vous les berciez, puis changez l'eau. Les peaux translucides remonteront à la surface, que vous éliminerez en inclinant le récipient. Répétez ce cycle — trempage, frottage, rinçage — jusqu'à ce que les haricots apparaissent nus, d'un blanc ivoire pur. C'est ce patient dépouillement, transmis de mère en fille depuis des générations yoruba, qui donnera à la pâte sa légèreté aérienne et sa couleur claire caractéristique.", duration: 20 },
             { order: 2, description: "Broyage : Mixer les haricots égouttés avec un demi-verre d'eau, l'ail et la moitié des oignons jusqu'à obtenir une pâte lisse et crémeuse.", duration: 8 },
             { order: 3, description: "L'aération de la pâte : Battre vigoureusement la pâte à la cuillère en bois pendant 8 minutes : le mélange doit mousser et s'éclaircir.", duration: 8 },
             { order: 4, description: "Assaisonnement : Incorporer le reste d'oignons hachés, le piment écrasé et le sel juste avant la friture.", duration: 2 },
@@ -1289,8 +1289,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Battez la pâte à la cuillère avant de frire pour rendre l'Atà léger et croustillant."
         ],
-        intro: "Le plaisir simple d\\'un beignet de haricots croustillant, racine originelle des voyages culinaires à travers l\\'Atlantique.",
-        description: "Tremper les haricots 4h min. Jeter l\\'eau, retirer les peaux et rincer abondamment.",
+        intro: "Aux aurores des marchés de Cotonou, l'odeur des beignets de niébé frits dans l'huile de palme annonce le jour — un rite aussi vieux que la civilisation yoruba elle-même.",
+        description: "Bien avant que les caravelles européennes ne sillonnent l'Atlantique, les femmes yoruba du Golfe de Bénin préparaient déjà l'Àtà : des beignets de haricots niébé (Vigna unguiculata) soigneusement émondés, broyés en pâte crémeuse, et frits dans l'huile de palme bouillonnante. Ce beignet sacré n'était pas seulement nourriture — il était offrande. Dans le culte de Candomblé et de l'Ifá, l'Akara est dédié à Iansã, orisha des tempêtes et des âmes errantes. Les marchands d'esclaves embarquèrent les hommes, mais ne purent embarquer leurs mémoires culinaires. Traversant l'Atlantique dans la soute des navires négriers, les Yoruba déportés au Brésil recréèrent leur beignet sacré à Bahia : l'Acarajé naquit, frit dans l'huile de dendê rouge, garni de vatapá et de caruru. Dans les marchés colorés de Porto-Novo, Abomey-Calavi ou Cotonou, les vendeuses d'Àtà s'installent dès l'aube, leur grande bassine d'huile crépitante posée sur un trépied de fortune. Chaque beignet doré est une madeleine de Proust africaine, un pont entre deux continents, un hymne à la résilience de tout un peuple. Aujourd'hui, qu'on l'appelle Àtà au Bénin, Akara au Nigéria, ou Acarajé à Bahia, ce beignet de haricots demeure l'un des témoins les plus éloquents de la diaspora africaine.",
         relatedRecipes: ['acaraje', 'accras-morue']
     },
         {
@@ -1333,8 +1333,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Ne coupez pas les gombos : laissez-les entiers pour qu'ils cuisent doucement dans la sauce sans libérer trop de mucilage."
         ],
-        intro: "L\\'onctuosité de la noix de palme et la tendreté du poulet, une célébration des saveurs authentiques de l\\'Afrique Centrale.",
-        description: "Saisir le poulet dans une casserole.",
+        intro: "L'onctuosité veloutée de la pulpe de palme rouge et la douceur des gombos : l'hymne national de la gastronomie angolaise.",
+        description: "La Muamba de Galinha (ou Moamba de Galinha) est le plat emblématique de l'Angola, hérité des traditions culinaires séculaires des peuples Kimbundu et Bakongo. La « muamba » désigne à la fois la sauce et la pâte onctueuse extraite de la chair charnue des noix du palmier à huile (Elaeis guineensis). Cuisiné dans les marmites en argile avec du poulet fermier, de l'ail, du piment ginguba et de généreuses poignées de gombos frais qui lui confèrent une texture soyeuse, ce ragoût d'un rouge flamboyant raconte l'histoire du royaume du Kongo et des routes commerciales d'Afrique australe. Lorsque les captifs angolais furent déportés vers le Brésil, ils emportèrent le souvenir de cette pâte de palme pour créer la Moqueca et les plats au dendê de Salvador de Bahia.",
         relatedRecipes: ['moambe-chicken', 'poulet-dg']
     },
 
@@ -1381,8 +1381,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Utilisez obligatoirement le bouillon noir de cuisson des haricots pour mouiller le riz : c'est lui qui confère au plat sa couleur sombre emblématique."
         ],
-        intro: "Le contraste parfait entre le riz immaculé et les haricots sombres : un plat de fraternité culinaire venu de Cuba.",
-        description: "Faire revenir le lard et les aromates."
+        intro: "Dans chaque foyer cubain, la casserole fumante de Moros y Cristianos raconte, en noir et blanc, l'histoire entremêlée de deux mondes.",
+        description: "Le nom évoque la Reconquista espagnole — les Maures (Moros) et les Chrétiens (Cristianos) réunis dans un même plat — mais les racines véritables de ce pilier de la cuisine cubaine traversent l'Atlantique et remontent aux savanes ouest-africaines. Bien avant que les colonisateurs espagnols ne baptisent cette préparation de leur imaginaire medieval, les esclaves yoruba et mandé déportés à Cuba au XVIIe et XVIIIe siècle cuisaient déjà le riz aux haricots : l'Atassi béninois (riz aux niébé cuits dans des feuilles), le Waakye ghanéen (riz aux haricots rouges coloré aux feuilles de sorgho), ou simplement le riz aux haricots noirs préparé dans les senzalas et jardins de case. Ces hommes et ces femmes arrachés à leur terre apportèrent dans leurs mémoires cette technique ancestrale d'association céréale-légumineuse — un accord nutritif parfait qui nourrissait le corps et l'âme. Les cuisinières africaines des grandes habitations sucrières de la région de Matanzas et de Santiago de Cuba perpétuèrent cette tradition, l'adaptant aux haricots noirs (frijoles negros) de Cuba et aux aromates de la Caraïbe. Aujourd'hui, les Moros y Cristianos sont le plat national cubain par excellence, servi à toutes les tables, insaisissable témoignage de ce que l'Afrique a semé dans le Nouveau Monde.",
     },
         {
         id: 'arroz-titote',
@@ -1421,8 +1421,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Surveillez attentivement le lait de coco quand il commence à frire : le passage de doré à brûlé se fait en quelques secondes. Les grains de titoté doivent être ambrés et non noirs."
         ],
-        intro: "La douceur lactée du coco et la profondeur des haricots noirs, un trésor côtier de la Colombie afro-descendante.",
-        description: "Réduire le lait de coco jusqu\\'à obtenir le \"titoté\" (grains caramélisés)."
+        intro: "Sur la côte Pacifique de Colombie, le riz au lait de coco chante la mémoire des ancêtres africains de Buenaventura — doux, profond, irrésistible.",
+        description: "Le Arroz con Titoté — riz cuit dans le lait de coco dense extrait à la cuillère de noix fraîchement râpées — est l'âme culinaire de la côte Pacifique colombienne, territoire de résistance et de mémoire des communautés afro-colombiennes. Buenaventura, Tumaco, Guapi : ces villes du Pacifique colombien sont parmi les plus afro-descendantes d'Amérique du Sud, peuplées par les descendants des captifs africains débarqués par les conquistadors espagnols aux XVIe et XVIIe siècles pour travailler dans les mines d'or et les plantations de cacao. Ces communautés, qui cultivèrent la résistance au quotidien — y compris par la fuite dans les communautés de palenques et de cimarrones —, transmirent de génération en génération leur maîtrise du lait de coco, reflet direct des cuisines d'Afrique centrale et de l'Ouest. Le « titoté » désigne le fond caramélisé et parfumé obtenu après la réduction prolongée du lait de coco — une technique de cuisson patiente qui transforme le riz ordinaire en une préparation inoubliable, à la fois suave et légèrement dorée. Ce riz n'est pas un accompagnement banal : c'est un acte de mémoire, une déclaration d'identité afro-pacifique, préparé aux fêtes de San Pacho à Quibdó ou à la Semana de la Afrocolombianidad, vibrant et fier.",
     },
         {
         id: 'griot-haitien',
@@ -1463,8 +1463,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Le secret du Griot réside dans la double cuisson : la précuisson dans le jus d'orange amère attendrit la viande, et la friture vive scelle la caramélisation croustillante extérieure."
         ],
-        intro: "Le croustillant irrésistible d\\'un porc mariné à l\\'orange amère, symbole vibrant de la fierté haïtienne.",
-        description: "Nettoyage : Frictionner les morceaux de porc avec du jus de citron ou d\\'orange amère, puis les rincer à l\\'eau bouillante."
+        intro: "Mariné dans l'orange amère et la résistance, le Griot est le cri de liberté d'Haïti sur un plat.",
+        description: "Le Griot haïtien est indissociable de l'histoire de la seule révolution d'esclaves victorieuse de l'histoire mondiale. Né dans les mornes et les forêts de Saint-Domingue, ce plat de porc mariné au jus d'orange amère, au piment scotch bonnet et aux épices fut d'abord la nourriture des marrons — ces esclaves fugitifs qui s'échappaient dans les montagnes pour vivre libres. L'orange amère (bigarade) poussait à l'état sauvage dans les hauteurs de l'île et servait à la fois de conservateur naturel et de marinade. Le porc, lui, était l'animal des jours de fête clandestine : abattu en secret lors des cérémonies Vaudou dans les bois, loin des regards des planteurs. La nuit du Bois Caïman, en août 1791, qui marqua le début de la révolution haïtienne, aurait été accompagnée d'un tel festin de porc rituel. Frit ou rôti à la perfection — croustillant à l'extérieur, fondant à l'intérieur — le Griot est aujourd'hui servi avec du riz aux pois rouges (du riz national) et des bananes pesées frites. Son nom lui-même évoque les griots d'Afrique de l'Ouest, ces gardiens de la mémoire collective. Manger du Griot en Haïti, c'est communier avec deux siècles de liberté conquise, une bouchée à la fois.",
     },
         {
         id: 'doubles',
@@ -1508,8 +1508,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Les Baras doivent frire seulement quelques secondes de chaque côté dans une huile bien chaude : ils doivent rester ultra-moelleux et dorés, jamais durs ni croustillants."
         ],
-        intro: "Le snack de rue par excellence : deux beignets dorés emprisonnant des pois chiches épicés pour une explosion de saveurs.",
-        description: "Préparer la pâte à Bara et frire les beignets plats."
+        intro: "Deux bara, un nuage de channa — les Doubles de Trinidad sont le matin même de Port of Spain.",
+        description: "Les Doubles sont la street food la plus emblématique de Trinidad-et-Tobago, et leur histoire est le récit d'un syncrétisme culturel unique dans les Caraïbes. Inventés dans les années 1930 à Princes Town par un vendeur d'origine indo-trinidadienne, Emamool Deen, ils portent l'empreinte profonde de la communauté indo-caribéenne arrivée à Trinidad après l'abolition de l'esclavage dans le cadre du système d'engagisme (1838-1917). Les bara — ces petits pains plats frits dans l'huile — sont une adaptation des poori de l'Inde du Nord, préparés avec de la farine et du curcuma (turmeric). Le channa — pois chiches épicés — est issu de la cuisine indienne du chhole. Mais Trinidad n'est jamais une histoire simple : les condiments qui accompagnent les Doubles portent l'âme créole et africaine de l'île. La sauce tamarind sucrée, la pepper sauce au piment habanero (scotch bonnet), le chutn'y de mangue verte — toutes ces saveurs croisent dans une seule bouchée l'Inde, l'Afrique et les Caraïbes. Les Doubles se mangent debout, à l'aube, enveloppés dans du papier journal, par les ouvriers, les écoliers, les noctambules. Ils sont le plat de la démocratie trinidadienne — également accessibles à tous, également aimés par tous. Dans leur diversité d'ingrédients se lisent les cicatrices et les beautés d'une nation née de l'oppression et du mélange.",
     },
         {
         id: 'pom-surinam',
@@ -1550,8 +1550,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Le jus d'orange et le citron vert apportent l'acidité fruitée indispensable qui neutralise l'astringence naturelle de la racine de taro."
         ],
-        intro: "Un festin gratiné à la racine de pomtayer et au poulet, héritage métissé et gourmand du Suriname.",
-        description: "Faire revenir le poulet avec les oignons."
+        intro: "Racine de pomtajer, citron et poulet — le Pom est la mémoire africaine du Suriname dans un plat de fête.",
+        description: "Le Pom est le plat de fête par excellence du Suriname, servi lors des mariages, des naissances et des célébrations religieuses des communautés créoles (Afro-Surinamaises) et juives séfarades du pays. Son histoire est un microcosme de la complexité surinamaise, pays où se croisèrent Hollandais, esclaves africains, travailleurs engagés indiens et javanais, et communautés juives fuyant la persécution en Europe. Le Pomtajer — ou tayer, une racine similaire au taro (Xanthosoma sagittifolium) — fut introduit au Suriname par les esclaves africains qui reconnaissaient dans cette plante américaine les qualités des ignames et taros de leur Afrique natale. Râpée finement, mélangée au jus de citron vert pour éviter l'oxydation et adoucie, cette racine forme la base d'un gratin onctueux dans lequel on enfouit du poulet ou du poisson mijoté en sauce. La technique du gratin, elle, vient des influences néerlandaises et juives séfarades. Les Juifs séfarades de Suriname — descendants des réfugiés chassés du Brésil puis d'Europe — adoptèrent le Pom et en firent leur plat de shabbat, substituant le poulet aux ingrédients traditionnels pour respecter les lois de cacherout. Cette rencontre extraordinaire entre la cuisine africaine et la cuisine judéo-sépharade a donné naissance à un plat unique au monde. Le Pom n'appartient à personne et appartient à tout le Suriname.",
     },
         {
         id: 'encocado-pescado',
@@ -1592,8 +1592,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "L'huile d'Achiote (roucou) est essentielle pour donner à l'Encocado cette couleur soleil éclatante et sa note terreuse subtile."
         ],
-        intro: "La mer et la terre se rencontrent dans ce velouté de lait de coco parfumé à l\\'achiote, signature d\\'Esmeraldas.",
-        description: "Mariner le poisson avec de l\\'ail et du citron."
+        intro: "Sur la côte Esmeraldas, chaque casserole d'Encocado chante l'Afrique dans la langue du Pacifique — poisson nacré enveloppé de lait de coco et de curcuma doré.",
+        description: "L'Encocado de Pescado — poisson mijoté dans une sauce onctueuse de lait de coco, tomates, coriandre, piment et curcuma — est le plat emblématique de la côte Esmeraldas, au nord-ouest de l'Équateur, région à forte majorité afro-équatorienne. Son histoire est indissociable de la présence africaine sur cette côte du Pacifique. En 1553, un navire négrier espagnol s'échoua au large des côtes d'Esmeraldas. Les captifs africains à son bord — originaires d'Afrique centrale et de l'Ouest — se libérèrent et s'enfuirent dans la forêt tropicale côtière, où ils fondèrent des communautés libres, les palenques. Ces pionniers de la liberté — véritables premiers Noirs libres d'Amérique du Sud — recréèrent sur ces terres équatoriales une culture profondément africaine, intégrant les ressources locales : poissons du Pacifique, lait de noix de coco, piment ají, racines tropicales. L'encocado est né de cette synthèse : la maîtrise africaine du lait de coco (héritée des cuisines de l'Afrique subsaharienne côtière) appliquée aux richesses halieutiques de l'Équateur. Préparé au feu de bois dans de grandes marmites en terre cuite, l'encocado reste aujourd'hui le symbole vivant de l'identité afro-équatorienne d'Esmeraldas, inscrit dans le patrimoine immatériel de l'Équateur.",
     },
         {
         id: 'mofongo',
@@ -1631,8 +1631,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Ne faites pas dorer excessivement les plantains verts : ils doivent rester blonds pour être faciles à piler au mortier sans devenir secs."
         ],
-        intro: "Une montagne de plantains pilés à l\\'ail et au chicharrón, héritière sculptée du Fufu africain à Porto Rico.",
-        description: "Couper et frire les plantains en cubes.",
+        intro: "Plantain pilé au pilon, l'écho d'un continent — le Mofongo est le fufu de Porto Rico, sculpté par les mains Yoruba.",
+        description: "Le Mofongo est l'une des preuves les plus éloquentes de la résilience culturelle africaine dans les Amériques. Son nom même vient du yoruba : « mofongo » serait une déformation de « mofongó », une exclamation, ou dériverait de langues bantoues désignant la manière de piler et mélanger. Les esclaves Yoruba déportés aux Antilles espagnoles — Porto Rico, Cuba, République Dominicaine — portaient dans leurs mains la mémoire du fufu, cette pâte d'igname ou de plantain pilée que l'on préparait en Afrique depuis la nuit des temps. Dans les Caraïbes, ils remplacèrent l'igname africain par le plantain vert, plus abondant sur les plantations. Le pilage dans le mortier — le pilón — devint un acte quasi sacré, transmis de génération en génération. Les esclaves ajoutèrent de l'ail et des chicharrones (couenne de porc frite) pour étoffer la saveur d'une ration autrement terne. Ce geste de créativité face à la privation transforma un simple accompagnement africain en un plat identitaire portoricain. Aujourd'hui, le Mofongo se décline en mille variantes — farci de crevettes, de poulet, de viande en sauce — mais le pilon reste le même, et le geste reste africain. Dans chaque pilée de plantain résonne le mortier de Yorubaland.",
         relatedRecipes: ['fufu', 'sancocho']
     },
         {
@@ -1676,8 +1676,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Écrasez un ou deux morceaux de tubercules cuits dans le bouillon en fin de cuisson pour donner au Sancocho sa consistance liée et généreuse."
         ],
-        intro: "La soupe de \"vivres\" généreuse et robuste, où chaque tubercule raconte l\\'histoire des champs de la diaspora.",
-        description: "Marinade et cuisson lente des viandes.",
+        intro: "Dans le grand chaudron du sancocho se retrouvent tous les peuples des Caraïbes — un pot commun né des rations de plantation, devenu hymne à la convivialité.",
+        description: "Le sancocho — cette soupe-repas consistante aux tubercules, viandes et légumes qui parfume les cuisines de Cuba à la Colombie, de Porto Rico à la République Dominicaine — est la mémoire liquide de la plantation caribéenne. Son nom vient peut-être de l'espagnol sancochar (cuire à moitié), mais ses racines plongent bien plus profondément dans l'histoire des captifs africains. Sur les grandes habitations sucrières des Caraïbes espagnoles, les rations distribuées aux esclaves consistaient en tubercules grossiers — igname, manioc, patate douce, malanga — accompagnés de maigres morceaux de viande de bas-morceaux, de poisson séché ou de salé. Les cuisinières africaines, héritières d'une longue tradition de soupes et de ragoûts (l'egusi yoruba, le mafé mandé, le palm-nut soup akan), réunirent ces ingrédients disparates dans un grand pot posé sur le feu, ajoutèrent du maïs vert, du plantain, des herbes sauvages cueillies aux abords du camp. Ce pot collectif — partagé entre tous, préparé par les femmes, nourricier et réconfortant — devint le ciment social des communautés d'esclaves. Après l'Abolition, le sancocho traversa les classes et les îles, s'enrichit de nouvelles viandes et épices, et s'imposa comme le plat du dimanche, de la fête familiale, du rassemblement. Il reste à ce jour le plat le plus partagé et le plus aimé des Caraïbes hispanophones.",
         relatedRecipes: ['fufu', 'mofongo']
     },
         {
@@ -1719,8 +1719,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Le cœur de bœuf est une viande très maigre : ne la surcuisez jamais. Une cuisson courte et brûlante de 2 à 3 minutes par face suffit pour garder une tendreté exceptionnelle."
         ],
-        intro: "L\\'ingéniosité afro-péruvienne en brochette : des cœurs de bœuf épicés au piment panca, nés de la survie et du goût.",
-        description: "Nettoyer et couper le cœur en cubes.",
+        intro: "Dans les ruelles nocturnes de Lima, la braise des anticuchos illumine les visages — chaque brochette de cœur raconte une histoire de résilience née dans les chaînes.",
+        description: "L'anticucho de corazón — brochette de cœur de bœuf marinée au piment ají panca, à l'ail et au cumin, grillée sur charbon de bois — est l'un des plats les plus emblématiques du Pérou. Mais son histoire commence dans l'humiliation et la dépossession. Dès le XVIe siècle, les maîtres espagnols de Lima réservaient pour eux-mêmes les meilleurs morceaux des bœufs abattus. Les abats — cœur, foie, rognons, tripes — étaient abandonnés aux esclaves africains déportés sur les côtes péruviennes, considérés comme impropres à la table des conquistadors. C'est alors que les femmes africaines des callejones de Lima, avec leur génie culinaire millénaire, transformèrent le rebut en délice. Elles marines le cœur dans des piments locaux et des épices, apprirent à le travailler sur des brochettes d'os ou de canne à sucre, et le firent griller sur des braseros rudimentaires. L'anticucho quitta les cours des maisons d'esclaves pour envahir les rues de Lima : les anticucheras — ces vendeuses nocturnes, souvent afro-descendantes — devinrent des figures incontournables du Lima colonial puis républicain. Aujourd'hui encore, les meilleures anticucheras exercent dans le quartier de Barrios Altos, cœur historique de la présence africaine à Lima. Chaque brochette grillée est un acte de mémoire et de fierté.",
         relatedRecipes: ['suya-chanchanga']
     },
     {
@@ -2108,8 +2108,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "La Cachupa est encore meilleure le lendemain : faites-la revenir à la poêle avec un peu d'oignon et servez avec un œuf au plat pour le célèbre petit-déjeuner capverdien."
         ],
-        intro: "Le réconfort ultime venu des îles : un festin généreux de maïs et de haricots, forgé par l\\'histoire et le partage.",
-        description: "Tremper le maïs et les haricots toute la nuit.",
+        intro: "Maïs, haricots, racines et mémoire — la Cachupa est le récit complet du Cap-Vert dans une marmite.",
+        description: "La Cachupa est l'âme du Cap-Vert — ces dix îles volcaniques surgies de l'Atlantique au croisement des routes maritimes africaines, européennes et américaines. Née de la nécessité sur un archipel aride aux ressources limitées, elle est aussi le reflet fidèle d'une société métissée depuis sa fondation au XVe siècle. Les Portugais arrivèrent sur des îles inhabitées et en firent une plaque tournante du commerce triangulaire, déportant des Africains de Sénégambie, de Guinée-Bissau et de la Côte d'Ivoire. Ces esclaves apportèrent le savoir-faire du maïs pilé, des haricots mijotés et des légumes-racines — une base commune à toute la cuisine d'Afrique de l'Ouest. Les Portugais ajoutèrent les saucisses (chouriço, linguiça), les lardons et les morceaux de porc — leur propre vocabulaire culinaire. La Cachupa Rico (riche) se distingue de la Cachupa Pobre (pauvre, sans viande) par l'abondance de ses protéines animales, marqueur de prospérité dans une société historiquement précaire. Mijotée lentement dans de grandes marmites, parfumée au laurier et aux épices, la Cachupa se mange en famille sur plusieurs jours — réchauffée, elle n'en est que meilleure. Les Capverdiens de la diaspora, dispersés entre Lisbonne, Rotterdam, Boston et Dakar, la cuisinent comme un acte de retour aux sources. Elle est à la fois archive et ancre.",
         relatedRecipes: ['feijoada', 'hoppin-john']
     },
         {
@@ -2152,8 +2152,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Tournez le Cou-Cou sans interruption à l'aide d'une solide spatule en bois : la semoule doit devenir lisse et se détacher parfaitement des parois de la casserole."
         ],
-        intro: "Le mariage sacré de la terre et de la mer : la douceur du maïs gomboté rencontrant l\\'agilité du poisson volant.",
-        description: "Bouillir les gombos coupés dans l\\'eau.",
+        intro: "Le Cou-Cou est l'âme de la Barbade — cornmeal et gombo tissés ensemble comme les mains qui l'ont créé.",
+        description: "Le Cou-Cou est bien plus qu'un plat national : c'est la mémoire vivante des Africains déportés à la Barbade, l'île qui accueillit le premier port négrier des Antilles britanniques. Ses ancêtres sont les fufu d'Afrique de l'Ouest — ces pâtes de céréales pilées que les Ashanti, les Fon et les Yoruba préparaient au mortier depuis des millénaires. Sur les plantations de canne à sucre de la Barbade, les esclaves réinventèrent leur geste ancestral avec ce qu'ils trouvaient : la farine de maïs (cornmeal) apportée par les colons, et le gombo (okra), plante africaine qui traversa l'Atlantique dans les mains mêmes des captifs. L'okra, en fondant dans la polenta, lui donne ce liant soyeux si caractéristique — une technique purement africaine appliquée à des ingrédients du Nouveau Monde. Le poisson volant (flying fish), lui, était péché dans les eaux turquoise de la mer des Caraïbes par les hommes contraints de nourrir les plantations. Abondant et peu coûteux, il devint la protéine du peuple. Ensemble, le Cou-Cou et le flying fish forgèrent l'identité barbadienne, inscrite aujourd'hui dans la Constitution du pays comme plat national. Chaque bouchée est un acte de résistance douce : la transformation de la contrainte en beauté, de la ration en festin.",
         relatedRecipes: ['sauce-gombo', 'gumbo', 'callaloo']
     },
         {
@@ -2195,8 +2195,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Plat porte-bonheur emblématique du Nouvel An chez les Afro-Américains (Gullah Geechee) : les haricots symbolisent les pièces de monnaie et le chou les billets de banque."
         ],
-        intro: "Un grain de chance et de mémoire : le riz et les pois unis dans un plat de célébration porteur de l\\'héritage Gullah.",
-        description: "Rinçage : Bien rincer les pois à œil noir sous l\\'eau courante (ou tremper 30 min et jeter l\\'eau).",
+        intro: "Dans chaque grain de black-eyed pea se cache un grain de Sénégal — le Hoppin' John est la mémoire douce du peuple Gullah.",
+        description: "Le Hoppin' John est l'un des ponts les plus directs qui enjambent l'Atlantique entre l'Afrique de l'Ouest et les États-Unis. Ce plat de riz aux black-eyed peas (niébé, ou cowpeas) de Caroline du Sud est l'héritier direct du thiébou niébé sénégalais et du waakye ghanéen — ces plats de riz aux haricots que les peuples Wolof, Mandé et Akan cuisinaient quotidiennement en Afrique occidentale. Lorsque les négriers sillonnaient la côte de Sénégambie, ils embarquaient souvent des sacs de riz et de niébé comme vivres de bord — préservant involontairement les graines d'une future cuisine de résistance. Les esclaves débarqués dans les Sea Islands de Caroline du Sud — majoritairement d'origine sénégalaise et gambienne — portaient en eux ce savoir culinaire. Isolés des grands centres urbains, les peuples Gullah préservèrent leur langue, leur culture et leurs recettes avec une pureté exceptionnelle. Le Hoppin' John devint leur plat de cohésion : mangé le 1er janvier pour porter chance, préparé avec du riz long-grain et des niébé mijotés avec des herbes et des épices. Aujourd'hui, les communautés Gullah de Caroline du Sud revendiquent fièrement cette filiation africaine, refusant que l'histoire de leur cuisine soit effacée. Le Hoppin' John est leur lettre d'amour à leurs ancêtres.",
         relatedRecipes: ['feijoada', 'cachupa-rico']
     },
         {
@@ -2240,8 +2240,8 @@ export const recipes: Recipe[] = [
         practicalTips: [
             "Ne percez jamais le piment Scotch Bonnet pendant la cuisson : il doit seulement parfumer délicatement le lait de coco sans brûler le velouté."
         ],
-        intro: "Le plat national de la Jamaïque : un fruit qui ressemble à des œufs brouillés, marié au poisson salé de l\\'Atlantique.",
-        description: "Mijoter tous les ingrédients ensemble dans le lait de coco.",
+        intro: "Verte comme la forêt tropicale, crémeuse comme la promesse d'un lendemain — la soupe Callaloo nourrit l'âme de Trinidad.",
+        description: "Le Callaloo de Trinidad est né dans les jardins de case — ces minuscules parcelles que les maîtres esclavagistes accordaient parfois aux esclaves pour cultiver leur propre nourriture, aux marges des grandes plantations. C'est là que les femmes africaines, principalement d'origine Igbo, Yoruba et Fon, plantèrent les taro (dasheen) dont les larges feuilles vertes constituent la base du plat. La plante de taro, originaire d'Afrique subsaharienne et d'Asie du Sud-Est, était déjà connue des captifs : elle ressemblait aux légumes-feuilles de leur Afrique natale, les brédes et feuilles de manioc. Le gombo (okra), autre voyageur africain, apporta son pouvoir liant. Le lait de coco, héritage des échanges entre Afrique et Asie, enveloppa tout d'une douceur crémeuse. Les crabes de mangrove, pêchés dans les estuaires de Port d'Espagne, devinrent la protéine festive du plat. Au fil des générations, le Callaloo s'enrichit des apports indo-trinidadiens — curcuma, feuilles de cari — qui rejoignirent l'île après l'abolition de l'esclavage avec l'engagisme. Ce syncrétisme culinaire profond fait du Callaloo le symbole de Trinidad elle-même : une nation née de la douleur et de la rencontre, où chaque culture a laissé une saveur dans le chaudron commun.",
         relatedRecipes: ['sauce-gombo', 'gumbo', 'coucou-flying-fish']
     },
     {
@@ -2281,8 +2281,8 @@ export const recipes: Recipe[] = [
             'Les crevettes séchées donnent le goût "terre-mer" caractéristique.',
             'À la différence du pâte blanche, l\'Amiwo ne doit pas être fermenté (ou très peu).'
         ],
-        intro: 'Une pâte de maïs rouge et savoureuse, cuite directement dans un bouillon de tomate et de viande corsé.',
-        description: 'Appelé Amiwo au sud du Bénin ou Djinkouné vers le Togo, ce plat est le "cousin rouge" de la pâte blanche. C\'est un plat de fête par excellence, cuit dans un bouillon richement épicé qui lui donne sa belle couleur orangée.',
+        intro: "Une pâte de maïs rouge et aérienne, cuite amoureusement dans le bouillon concentré d'un poulet fermier rissolé.",
+        description: "Appelé Amiwo au sud du Bénin ou Djinkouné au Togo, ce chef-d'œuvre de la cuisine Fon et Mina est le roi incontesté des banquets, des mariages et des repas de prestige. Contrairement aux pâtes blanches de maïs ordinaires cuites à l'eau simple, l'Amiwo est cuit directement dans une sauce tomate intensément parfumée, enrichie du jus de cuisson d'un poulet fermier doré, de crevettes séchées pilées, d'oignons doux et de piments parfumés. La semoule de maïs blanc y est battue énergiquement au feu de bois jusqu'à ce qu'elle devienne d'un rouge corail uniforme, souple et brillante. Servi avec le poulet braisé croustillant et un condiment d'oignons frais (Moyo), c'est l'incarnation de l'hospitalité bienveillante du Golfe de Guinée.",
         relatedRecipes: ['fufu-light-soup', 'funge']
     },
     {
@@ -5044,6 +5044,981 @@ export const recipes: Recipe[] = [
         suggestedAccompaniments: ['Crème chantilly', 'Glace vanille'],
         intro: 'Le trône des tables de fête afro-américaines depuis des siècles — cette tarte à la patate douce est une ode à la résilience et à la douceur d\'un peuple.',
         description: 'Le Sweet Potato Pie est bien plus qu\'un dessert : c\'est un symbole de l\'histoire afro-américaine. Né dans les cuisines des plantations, il s\'est transformé en œuvre d\'art culinaire transmise de génération en génération, indissociable de Thanksgiving et des réunions de famille du Sud des États-Unis.'
+    },
+    {
+        id: "mangu",
+        title: "Mangú",
+        origin: "République Dominicaine / Porto Rico",
+        region: "Caraïbes et Antilles",
+        aliases: ["mangu","mangú","los tres golpes","puree de plantain","fufu caribeen"],
+        image: "/images/mangu.webp",
+        prepTime: 15,
+        cookTime: 25,
+        servings: 4,
+        difficulty: "Facile",
+        ingredients: [
+          {
+                    "name": "bananes plantain vertes",
+                    "quantity": "4 grandes"
+          },
+          {
+                    "name": "beurre",
+                    "quantity": "60 g"
+          },
+          {
+                    "name": "oignon rouge",
+                    "quantity": "1 moyen, émincé"
+          },
+          {
+                    "name": "vinaigre blanc",
+                    "quantity": "2 cuillères à soupe"
+          },
+          {
+                    "name": "sel",
+                    "quantity": "à volonté"
+          },
+          {
+                    "name": "eau de cuisson",
+                    "quantity": "150 ml"
+          }
+],
+        utensils: [
+          "Grand mortier en bois ou pilon",
+          "Casserole",
+          "Poêle",
+          "Presse-purée"
+],
+        steps: [
+          {
+                    "order": 1,
+                    "description": "Pelez les plantains verts en incisant la peau dans le sens de la longueur. Coupez-les en tronçons de 4 cm. L'épluchage du plantain vert peut noircir les mains ; utilisez de l'huile pour faciliter le décollement de la peau coriace.",
+                    "duration": 5
+          },
+          {
+                    "order": 2,
+                    "description": "Plongez les tronçons dans une casserole d'eau salée froide. Portez à ébullition et faites cuire 20 minutes à feu moyen, jusqu'à ce qu'ils soient tendres sous la pointe d'un couteau. Réservez 150 ml d'eau de cuisson avant d'égoutter.",
+                    "duration": 20
+          },
+          {
+                    "order": 3,
+                    "description": "Faites revenir l'oignon rouge émincé dans le beurre à feu doux pendant 8 minutes jusqu'à caramélisation dorée. Ajoutez le vinaigre en fin de cuisson et mélangez. Réservez pour garnir.",
+                    "duration": 8
+          },
+          {
+                    "order": 4,
+                    "description": "Transférez les plantains égouttés dans le mortier ou un grand bol. Pilez vigoureusement en ajoutant progressivement l'eau de cuisson et 40 g de beurre. Travaillez la pâte jusqu'à obtenir une consistance lisse, dense et homogène, sans grumeaux. C'est le geste ancestral — donnez-lui du respect.",
+                    "duration": 8
+          },
+          {
+                    "order": 5,
+                    "description": "Rectifiez le sel. Formez des boules ou servez en dôme dans des assiettes creuses. Nappez généreusement avec les oignons caramélisés au vinaigre. Servez immédiatement, le Mangú durcit en refroidissant.",
+                    "duration": 2
+          }
+],
+        suggestedAccompaniments: [
+          "Œufs frits",
+          "Fromage frit (queso frito)",
+          "Salami dominicain grillé",
+          "Sauce piquante créole"
+],
+        practicalTips: [
+          "Plus le plantain est vert (non mûr), plus la pâte sera ferme et authentique.",
+          "L'eau de cuisson amidonnée est le secret d'une texture soyeuse — ne la jetez pas.",
+          "On peut remplacer le beurre par de l'huile de coco pour une version plus proche de la tradition africaine."
+],
+        intro: "Pâte de plantain vert pilée, née du silence des cales. Un mémorial comestible aux ancêtres du Bénin.",
+        description: "Le Mangú est l'héritier direct du Fufu, ce plat fondateur façonné par des millions de mains africaines avant l'arrachement. Lorsque les navires négriers traversèrent l'Atlantique depuis les côtes du Golfe de Guinée — Bénin, Nigéria, Angola — ils emportèrent involontairement le geste millénaire de piler les tubercules bouillis. Sur les grandes plantations sucrières de Saint-Domingue et de Porto Rico, les esclaves adaptèrent ce rituel culinaire avec ce qu'ils trouvèrent : la banane plantain verte, abondante et peu coûteuse, que les maîtres laissaient aux captifs. Le pilage en mortier n'était plus seulement une technique ; c'était un acte de mémoire, une transmission codée. Dans les cases, les mères apprenaient à leurs enfants ce même mouvement de pilon que leurs propres mères avaient accompli sur les rivages de l'Afrique. Après l'indépendance dominicaine en 1844, le Mangú devint un symbole de la culture populaire, servi au petit-déjeuner avec des œufs et du fromage frit. Son nom viendrait même d'un soldat américain qui, au début du XXe siècle, goûta ce plat et s'écria \"Man, good!\" — anecdote apocryphe mais révélatrice de l'universalité de sa saveur. Piler du plantain, c'est encore aujourd'hui honorer les ancêtres."
+,       tags: ["vegan"]
+    },
+
+    {
+        id: "soso-mais-brede",
+        title: "Soso Maïs & Brèdes",
+        origin: "La Réunion / Maurice",
+        region: "Océan Indien",
+        aliases: ["soso maïs","sosso maïs","bredes","bouillon brede","sosso mai"],
+        image: "/images/soso-mais-brede.webp",
+        prepTime: 20,
+        cookTime: 35,
+        servings: 6,
+        difficulty: "Facile",
+        ingredients: [
+          {
+                    "name": "semoule de maïs grossière",
+                    "quantity": "300 g"
+          },
+          {
+                    "name": "brèdes de taro (ou épinards sauvages)",
+                    "quantity": "400 g de feuilles"
+          },
+          {
+                    "name": "oignon",
+                    "quantity": "2, émincés"
+          },
+          {
+                    "name": "ail",
+                    "quantity": "4 gousses écrasées"
+          },
+          {
+                    "name": "gingembre frais",
+                    "quantity": "1 morceau de 3 cm, râpé"
+          },
+          {
+                    "name": "curcuma en poudre (safran péi)",
+                    "quantity": "1 cuillère à café"
+          },
+          {
+                    "name": "piment oiseau",
+                    "quantity": "1, entier"
+          },
+          {
+                    "name": "huile",
+                    "quantity": "3 cuillères à soupe"
+          },
+          {
+                    "name": "sel",
+                    "quantity": "à volonté"
+          },
+          {
+                    "name": "eau",
+                    "quantity": "900 ml"
+          }
+],
+        utensils: [
+          "Grande marmite",
+          "Poêle",
+          "Couteau",
+          "Cuillère en bois"
+],
+        steps: [
+          {
+                    "order": 1,
+                    "description": "Lavez abondamment les brèdes de taro. Retirez les tiges les plus coriaces, ne gardez que les feuilles tendres et les petites tiges. Coupez grossièrement en lanières. Si vous utilisez des épinards sauvages, traitez-les de la même façon.",
+                    "duration": 10
+          },
+          {
+                    "order": 2,
+                    "description": "Dans la marmite, faites chauffer l'huile à feu moyen. Faites revenir les oignons jusqu'à translucidité (5 min). Ajoutez l'ail écrasé, le gingembre râpé, le curcuma et le piment entier. Faites revenir encore 2 minutes en remuant constamment pour libérer les arômes sans brûler.",
+                    "duration": 7
+          },
+          {
+                    "order": 3,
+                    "description": "Ajoutez les brèdes dans la marmite. Remuez énergiquement pour bien les enrober de la base épicée. Faites-les tomber à feu vif pendant 5 minutes — elles vont réduire considérablement de volume. Salez légèrement.",
+                    "duration": 5
+          },
+          {
+                    "order": 4,
+                    "description": "Versez les 900 ml d'eau dans la marmite. Portez à ébullition. Dès l'ébullition, versez la semoule de maïs en pluie fine en fouettant constamment pour éviter les grumeaux. Réduisez le feu au minimum.",
+                    "duration": 5
+          },
+          {
+                    "order": 5,
+                    "description": "Couvrez et laissez cuire à feu très doux pendant 20 minutes, en remuant toutes les 5 minutes avec la cuillère en bois. La semoule doit absorber tout le liquide et former une pâte épaisse qui se détache des parois. Retirez le piment entier avant de servir.",
+                    "duration": 20
+          },
+          {
+                    "order": 6,
+                    "description": "Rectifiez le sel. Servez en portions généreuses dans des assiettes creuses ou des bols. Ce plat se sert chaud, nature ou accompagné d'un rougail tomate ou d'un cari léger.",
+                    "duration": 2
+          }
+],
+        suggestedAccompaniments: [
+          "Rougail tomate",
+          "Cari poulet réunionnais",
+          "Achards de légumes",
+          "Piment confit"
+],
+        practicalTips: [
+          "Les brèdes de taro peuvent laisser une sensation légèrement âcre si mal cuites — assurez-vous de les faire cuire au moins 20 minutes.",
+          "La semoule de maïs grossière (polenta grossa) donne une texture plus rustique et authentique que la fine.",
+          "Ce plat se bonifie le lendemain — les saveurs se développent au repos."
+],
+        intro: "Semoule de maïs aux feuilles sauvages, nourrice des engagés. Dans chaque grain, l'empreinte de l'Inde et de l'Afrique entremêlées.",
+        description: "Le Soso Maïs & Brèdes est né dans les champs de canne à sucre de La Réunion et de Maurice, après l'abolition de l'esclavage en 1848. Lorsque les anciens esclaves refusèrent — enfin libres — de retourner dans les plantations, les colons firent venir des travailleurs sous contrat d'engagement (engagés) depuis l'Inde, Mozambique, Madagascar et la Chine entre 1848 et 1920. Ces hommes et femmes arrachés à leur terre reçurent une ration alimentaire de misère : du maïs concassé, quelques légumes. Les brèdes — terme créole désignant toute feuille sauvage ou cultivée comestible (taro, chouchou, morelle, cresson) — devinrent leur salut nutritionnel. Collectées en lisière des champs après le travail, ces feuilles transformaient la simple bouillie de maïs en un plat vivant, parfumé, thérapeutique. Les engagés indiens y glissèrent le curcuma (safran péi), les Mozambicains la façon de lier les brèdes, créant une recette syncrétique qui raconte l'histoire du métissage forcé. Aujourd'hui encore, le Soso Maïs & Brèdes est le plat du dimanche des campagnes réunionnaises et mauriciennes, préparé par les grand-mères qui ne savent pas toujours son histoire, mais en perpétuent le geste avec amour."
+,       tags: ["vegan","vegetarien"]
+    },
+
+    {
+        id: "rougail-morue",
+        title: "Rougail Morue",
+        origin: "La Réunion",
+        region: "Océan Indien",
+        aliases: ["rougaille morue","rougay mori","morue safranee","rougail piment"],
+        image: "/images/rougail-morue.webp",
+        prepTime: 30,
+        cookTime: 25,
+        servings: 4,
+        difficulty: "Moyen",
+        ingredients: [
+          {
+                    "name": "morue salée séchée",
+                    "quantity": "600 g"
+          },
+          {
+                    "name": "tomates mûres",
+                    "quantity": "5 grandes"
+          },
+          {
+                    "name": "oignon",
+                    "quantity": "2, émincés"
+          },
+          {
+                    "name": "ail",
+                    "quantity": "5 gousses écrasées"
+          },
+          {
+                    "name": "gingembre frais",
+                    "quantity": "2 cm, râpé"
+          },
+          {
+                    "name": "curcuma en poudre (safran péi)",
+                    "quantity": "1 cuillère à café"
+          },
+          {
+                    "name": "piment oiseau frais",
+                    "quantity": "2 (selon tolérance)"
+          },
+          {
+                    "name": "thym frais",
+                    "quantity": "3 brins"
+          },
+          {
+                    "name": "huile",
+                    "quantity": "4 cuillères à soupe"
+          },
+          {
+                    "name": "sel",
+                    "quantity": "avec précaution (la morue est déjà salée)"
+          }
+],
+        utensils: [
+          "Grand bol pour le dessalage",
+          "Poêle à griller",
+          "Sauteuse large",
+          "Fourchette"
+],
+        steps: [
+          {
+                    "order": 1,
+                    "description": "La veille ou 24 heures à l'avance : plongez la morue dans un grand bol d'eau froide. Changez l'eau 3 à 4 fois pour éliminer l'excès de sel. La morue est prête quand elle a retrouvé une texture souple et qu'un petit morceau goûté reste légèrement salé mais non agressif.",
+                    "duration": 1440
+          },
+          {
+                    "order": 2,
+                    "description": "Égouttez et séchez la morue dessalée. Chauffez la poêle à griller à sec à feu vif. Grillez les morceaux de morue 3 à 4 minutes de chaque côté jusqu'à l'obtention d'une surface légèrement dorée et parfumée. La fumée légère est normale et désirable — c'est l'âme du plat.",
+                    "duration": 8
+          },
+          {
+                    "order": 3,
+                    "description": "Laissez tiédir la morue grillée. Effilochez-la à la main ou à la fourchette en écartant soigneusement chaque arête. Ce geste d'effilochage est fondamental — la morue en lamelles s'imprègne mieux de la sauce.",
+                    "duration": 10
+          },
+          {
+                    "order": 4,
+                    "description": "Dans la sauteuse, faites chauffer l'huile à feu moyen. Faites revenir les oignons jusqu'à coloration (6 min). Ajoutez l'ail, le gingembre, le curcuma, le thym et les piments entiers. Remuez 2 minutes. Ajoutez les tomates coupées en dés et laissez compoter à feu moyen 10 minutes, en écrasant légèrement avec la spatule.",
+                    "duration": 18
+          },
+          {
+                    "order": 5,
+                    "description": "Incorporez la morue effilochée dans la sauce tomate. Mélangez délicatement pour ne pas trop émietter la chair. Laissez mijoter à feu doux 7 minutes supplémentaires. Goûtez avant d'ajouter du sel. Retirez le thym et les piments entiers avant de servir si vous préférez.",
+                    "duration": 7
+          }
+],
+        suggestedAccompaniments: [
+          "Riz blanc vapeur",
+          "Lentilles corail (dal)",
+          "Rougail tomate frais",
+          "Achards de papaye verte"
+],
+        practicalTips: [
+          "Ne sautez jamais l'étape de dessalage — une morue trop salée gâche le plat entier.",
+          "L'étape de grillage à sec est ce qui différencie le Rougail Morue réunionnais d'un simple ragoût de morue.",
+          "Pour une sauce plus riche, ajoutez 2 cuillères à soupe de concentré de tomate avec les tomates fraîches."
+],
+        intro: "Morue grillée en sauce tomate-safran-piment. L'âme salée de La Réunion, née du commerce triangulaire.",
+        description: "Le Rougail Morue est l'emblème culinaire de La Réunion, et son histoire est indissociable du commerce triangulaire. La morue — cabillaud séché et salé — fut introduite dans l'océan Indien par les navires européens du XVIIe siècle comme ration alimentaire durable pour les esclaves. Peu coûteuse, transportable sur des mois, nourrissante, elle devint la protéine assignée aux captifs africains dans les plantations de canne et de café de Bourbon (ancien nom de La Réunion). Mais les esclaves — Malgaches, Mozambicains, Comoriens, Indiens — transformèrent cette contrainte en art. Ils y ajoutèrent le rougail, préparation de tomates fraîches écrasées aux piments dont les racines sont à chercher dans les sauces piquantes d'Afrique de l'Est et de Madagascar. Le safran péi (curcuma local) donna la couleur dorée et les vertus thérapeutiques. Griller la morue avant de la mijoter n'est pas un caprice technique — c'est une mémoire des braises des campements marrons, des feux allumés en forêt par les esclaves fugitifs qui reconstituaient leur dignité autour d'une flamme. Aujourd'hui, le Rougail Morue est servi le vendredi dans les familles réunionnaises, jour maigre hérité du catholicisme colonial, mais le plat reste profondément africain dans son âme et ses techniques."
+,       tags: ["poisson-fruits-de-mer"]
+    },
+
+    {
+        id: "ti-jacques-boucane",
+        title: "Ti-Jacques Boucané",
+        origin: "La Réunion",
+        region: "Océan Indien",
+        aliases: ["ti jacque boucane","ti-jacque","ti-jacques","cari boucane","jacque marron"],
+        image: "/images/ti-jacques-boucane.webp",
+        prepTime: 25,
+        cookTime: 45,
+        servings: 5,
+        difficulty: "Moyen",
+        ingredients: [
+          {
+                    "name": "jackfruit vert (en conserve ou frais)",
+                    "quantity": "800 g égoutté"
+          },
+          {
+                    "name": "viande de porc boucané (fumée)",
+                    "quantity": "300 g"
+          },
+          {
+                    "name": "oignon",
+                    "quantity": "2, émincés"
+          },
+          {
+                    "name": "ail",
+                    "quantity": "4 gousses écrasées"
+          },
+          {
+                    "name": "gingembre frais",
+                    "quantity": "2 cm, râpé"
+          },
+          {
+                    "name": "curcuma",
+                    "quantity": "1 cuillère à café"
+          },
+          {
+                    "name": "thym",
+                    "quantity": "3 brins"
+          },
+          {
+                    "name": "tomates",
+                    "quantity": "3, en dés"
+          },
+          {
+                    "name": "piment",
+                    "quantity": "1, à votre goût"
+          },
+          {
+                    "name": "huile",
+                    "quantity": "3 cuillères à soupe"
+          },
+          {
+                    "name": "sel",
+                    "quantity": "à volonté"
+          }
+],
+        utensils: [
+          "Hachoir ou couteau large",
+          "Marmite en fonte",
+          "Cuillère en bois"
+],
+        steps: [
+          {
+                    "order": 1,
+                    "description": "Si vous utilisez du jackfruit en conserve, rincez-le abondamment et égouttez-le. Hachez grossièrement les morceaux au couteau — vous voulez une texture qui rappelle de la viande effilochée, pas de la purée. Si vous utilisez du jackfruit frais, pelez-le avec précaution (sa sève est collante, utilisez de l'huile sur les mains) et découpez la chair verte en morceaux.",
+                    "duration": 10
+          },
+          {
+                    "order": 2,
+                    "description": "Faites bouillir la viande de porc boucané 15 minutes dans de l'eau pour atténuer l'excès de sel et de fumée. Égouttez et détaillez en petits morceaux ou effilochez à la fourchette. Réservez.",
+                    "duration": 15
+          },
+          {
+                    "order": 3,
+                    "description": "Dans la marmite en fonte, faites chauffer l'huile à feu moyen-vif. Faites revenir les oignons jusqu'à coloration dorée. Ajoutez l'ail, le gingembre, le curcuma, le thym et le piment. Remuez 2 minutes pour faire monter les arômes.",
+                    "duration": 7
+          },
+          {
+                    "order": 4,
+                    "description": "Ajoutez les dés de tomates. Laissez compoter 5 minutes en écrasant légèrement. Incorporez ensuite le jackfruit haché et les morceaux de porc boucané. Mélangez bien pour que tout soit enrobé de la base aromatique.",
+                    "duration": 7
+          },
+          {
+                    "order": 5,
+                    "description": "Ajoutez un demi-verre d'eau, couvrez et laissez mijoter à feu doux pendant 25 minutes. Remuez de temps en temps. Le jackfruit doit s'imprégner des saveurs fumées et de la sauce épicée. En fin de cuisson, montez le feu 2 minutes à découvert pour faire réduire et concentrer la sauce.",
+                    "duration": 27
+          },
+          {
+                    "order": 6,
+                    "description": "Rectifiez l'assaisonnement. Retirez le thym et le piment entier. Servez bien chaud sur du riz blanc. La texture du jackfruit mijoté est si proche de la viande effilochée que ce plat surprend toujours ses convives.",
+                    "duration": 2
+          }
+],
+        suggestedAccompaniments: [
+          "Riz blanc parfumé",
+          "Lentilles du Puy",
+          "Rougail mangue verte",
+          "Grains (haricots rouges)"
+],
+        practicalTips: [
+          "Le jackfruit en conserve \"young green jackfruit\" est disponible dans les épiceries asiatiques — c'est le plus pratique.",
+          "Si vous ne trouvez pas de porc boucané réunionnais, utilisez du jambon fumé de qualité ou de la palette fumée.",
+          "Plus vous hachez finement le jackfruit, plus la texture sera proche de la viande effilochée."
+],
+        intro: "Jacque vert haché à la viande fumée. La recette de la forêt, née dans les campements des marrons de Bourbon.",
+        description: "Le Ti-Jacques Boucané est un plat de résistance. Dans les forêts et les ravines escarpées de Bourbon — aujourd'hui La Réunion — les esclaves fugitifs appelés \"marrons\" survivaient en développant une cuisine de survie et de dignité. Le jacque (jackfruit) sauvage poussait en abondance dans les hauteurs de l'île, et sa chair verte, dense, fibreuse, pouvait tenir lieu de viande. Les marrons fumaient et boucanaient les quelques morceaux de viande ou de porc qu'ils parvenaient à se procurer lors de raids ou d'échanges secrets avec les esclaves des plaines. Le boucané — technique de fumage lente sur bois vert — est lui-même une mémoire africaine, puisque le fumage des viandes était pratiqué depuis des millénaires au Mozambique, à Madagascar et aux Comores. Le mot \"boucané\" vient d'ailleurs des Arawaks des Caraïbes (boucan), rappelant que les techniques de conservation alimentaire des peuples autochtones circulaient dans tout l'Atlantique et l'océan Indien. Malgré l'abolition de 1848, ce plat resta dans les mémoires des descendants de marrons des Hauts de l'île, transmis de génération en génération comme un code identitaire. Manger du Ti-Jacques Boucané, c'est honorer ceux qui ont choisi la liberté dans la forêt plutôt que l'humiliation dans les plaines."
+,       tags: ["viande"]
+    },
+
+    {
+        id: "tchaka",
+        title: "Tchaka",
+        origin: "Haïti",
+        region: "Caraïbes et Antilles",
+        aliases: ["chaka","tjakah","mais aux haricots","ragout de porc et mais"],
+        image: "/images/tchaka.webp",
+        prepTime: 30,
+        cookTime: 120,
+        servings: 8,
+        difficulty: "Difficile",
+        ingredients: [
+          {
+                    "name": "maïs concassé blanc (grès)",
+                    "quantity": "400 g trempé une nuit"
+          },
+          {
+                    "name": "haricots rouges secs",
+                    "quantity": "300 g trempés une nuit"
+          },
+          {
+                    "name": "pieds de porc",
+                    "quantity": "600 g, coupés en morceaux"
+          },
+          {
+                    "name": "huile de palme rouge (ou huile neutre)",
+                    "quantity": "4 cuillères à soupe"
+          },
+          {
+                    "name": "oignon",
+                    "quantity": "2 gros, émincés"
+          },
+          {
+                    "name": "ail",
+                    "quantity": "6 gousses"
+          },
+          {
+                    "name": "piment Scotch Bonnet",
+                    "quantity": "1, entier"
+          },
+          {
+                    "name": "thym frais",
+                    "quantity": "5 brins"
+          },
+          {
+                    "name": "cébettes",
+                    "quantity": "4 tiges"
+          },
+          {
+                    "name": "clous de girofle",
+                    "quantity": "3"
+          },
+          {
+                    "name": "sel",
+                    "quantity": "à volonté"
+          },
+          {
+                    "name": "eau",
+                    "quantity": "2 litres"
+          }
+],
+        utensils: [
+          "Très grande marmite en fonte ou aluminium épais",
+          "Autocuiseur (optionnel, pour gagner du temps)",
+          "Louche",
+          "Couteau"
+],
+        steps: [
+          {
+                    "order": 1,
+                    "description": "La veille : faites tremper séparément le maïs concassé et les haricots rouges dans de l'eau froide pendant 12 heures minimum. Cela réduit considérablement le temps de cuisson et améliore la digestibilité.",
+                    "duration": 720
+          },
+          {
+                    "order": 2,
+                    "description": "Blanchissez les pieds de porc : plongez-les dans de l'eau froide, portez à ébullition 10 minutes, égouttez et rincez. Cette étape élimine les impuretés et affine la saveur. Réservez.",
+                    "duration": 12
+          },
+          {
+                    "order": 3,
+                    "description": "Dans la grande marmite, chauffez l'huile à feu moyen. Faites revenir les oignons, l'ail, les cébettes 5 minutes. Ajoutez les pieds de porc blanchis et faites-les dorer légèrement sur toutes les faces, 8 minutes. Ajoutez thym, piment entier, clous de girofle.",
+                    "duration": 15
+          },
+          {
+                    "order": 4,
+                    "description": "Égouttez le maïs et les haricots trempés. Ajoutez-les dans la marmite avec les 2 litres d'eau. Portez à forte ébullition. Écumez la surface pendant les 5 premières minutes pour retirer les impuretés. Réduisez le feu au minimum, couvrez et laissez mijoter.",
+                    "duration": 10
+          },
+          {
+                    "order": 5,
+                    "description": "Laissez cuire à feu très doux pendant 90 minutes minimum, en remuant toutes les 15 minutes avec la louche et en ajoutant de l'eau chaude si nécessaire. Le maïs et les haricots doivent être fondants et le bouillon épais. Les pieds de porc doivent être si tendres que la viande se détache de l'os à la pression d'une cuillère.",
+                    "duration": 90
+          },
+          {
+                    "order": 6,
+                    "description": "Retirez le piment entier et les brins de thym. Rectifiez le sel généreusement. La consistance finale doit être celle d'un ragoût épais, presque d'une soupe-repas. Servez en bols larges, très chaud. Le Tchaka est encore meilleur réchauffé le lendemain.",
+                    "duration": 5
+          }
+],
+        suggestedAccompaniments: [
+          "Pain haïtien (pain d'épis)",
+          "Pikliz (pickles pimentés haïtiens)",
+          "Avocat tranché",
+          "Riz collé blanc"
+],
+        practicalTips: [
+          "Le trempage une nuit est impératif — sans lui, la cuisson peut dépasser 3 heures.",
+          "L'huile de palme rouge donne une couleur et une saveur authentiques — cherchez-la dans les épiceries africaines.",
+          "En autocuiseur, la cuisson totale se réduit à 45 minutes après revenu."
+],
+        intro: "Maïs concassé, haricots rouges, pieds de porc. Le plat du marronnage, cuit au feu de bois dans la montagne haïtienne.",
+        description: "Le Tchaka est le plat de la résistance ultime. Né dans les hauteurs boisées de Saint-Domingue à la fin du XVIIIe siècle, il fut la nourriture des marrons — ces esclaves fugitifs qui s'étaient réfugiés dans les mornes (montagnes) pour vivre libres. Inspiré du plat sénégalais Thiébou Yapp et des préparations de grains d'Afrique de l'Ouest où maïs et haricots sont toujours associés (symbole d'union entre les peuples), le Tchaka fut adapté avec ce que les marrons pouvaient se procurer : du maïs concassé volé dans les plantations, des haricots rouges sauvages, et parfois des pieds de porc récupérés lors d'embuscades sur les convois de ravitaillement coloniaux. La longue cuisson au feu de bois — souvent toute la nuit — n'était pas un choix esthétique : c'était une nécessité, le feu de bois étant la seule source de chaleur disponible. Les pieds de porc, partie du cochon que les maîtres n'accordaient qu'aux esclaves (les bas morceaux), furent transformés par les cuisiniers marrons en un met gélatineux d'une richesse incomparable. Après l'indépendance haïtienne de 1804 — première République noire du monde — le Tchaka devint le symbole de la liberté reconquise. Il est encore préparé lors des cérémonies Vodou, offert aux Lwa (esprits) comme offrande de gratitude."
+,       tags: ["viande"]
+    },
+
+    {
+        id: "soupe-joumou",
+        title: "Soupe Joumou",
+        origin: "Haïti",
+        region: "Caraïbes et Antilles",
+        aliases: ["soupe de lindependance","soupe giraumon","joumou","soup joumou"],
+        image: "/images/soupe-joumou.webp",
+        prepTime: 40,
+        cookTime: 90,
+        servings: 8,
+        difficulty: "Difficile",
+        ingredients: [
+          {
+                    "name": "courge giraumon (ou butternut)",
+                    "quantity": "1 kg, en cubes"
+          },
+          {
+                    "name": "bœuf (gîte ou paleron)",
+                    "quantity": "500 g, en morceaux"
+          },
+          {
+                    "name": "os à moelle",
+                    "quantity": "2 morceaux"
+          },
+          {
+                    "name": "carottes",
+                    "quantity": "3, en rondelles"
+          },
+          {
+                    "name": "navets",
+                    "quantity": "2, en cubes"
+          },
+          {
+                    "name": "chou blanc",
+                    "quantity": "1/4, émincé"
+          },
+          {
+                    "name": "céleri",
+                    "quantity": "2 branches"
+          },
+          {
+                    "name": "macaroni ou spaghetti coupés",
+                    "quantity": "150 g"
+          },
+          {
+                    "name": "banane plantain verte",
+                    "quantity": "1, en rondelles"
+          },
+          {
+                    "name": "oignon",
+                    "quantity": "2"
+          },
+          {
+                    "name": "ail",
+                    "quantity": "5 gousses"
+          },
+          {
+                    "name": "cébettes",
+                    "quantity": "4 tiges"
+          },
+          {
+                    "name": "piment Scotch Bonnet",
+                    "quantity": "1, entier"
+          },
+          {
+                    "name": "thym",
+                    "quantity": "4 brins"
+          },
+          {
+                    "name": "clous de girofle",
+                    "quantity": "4"
+          },
+          {
+                    "name": "jus de citron vert",
+                    "quantity": "3 cuillères à soupe"
+          },
+          {
+                    "name": "sel et poivre",
+                    "quantity": "à volonté"
+          },
+          {
+                    "name": "eau",
+                    "quantity": "2,5 litres"
+          }
+],
+        utensils: [
+          "Très grande marmite",
+          "Mixeur plongeant",
+          "Louche",
+          "Couteau"
+],
+        steps: [
+          {
+                    "order": 1,
+                    "description": "La veille : faites mariner les morceaux de bœuf avec le jus de citron vert, le sel, l'ail écrasé, le thym et les cébettes pendant 4 à 12 heures au réfrigérateur. Cette marinade est fondamentale dans la cuisine haïtienne — elle attendrit et parfume profondément la viande.",
+                    "duration": 240
+          },
+          {
+                    "order": 2,
+                    "description": "Dans la grande marmite, faites dorer les morceaux de bœuf marinés à l'huile à feu vif, 8 minutes sur toutes les faces. Ajoutez les os à moelle, les oignons émincés, le piment entier, les clous de girofle. Couvrez d'eau et portez à ébullition. Écumez. Réduisez le feu et laissez mijoter 45 minutes.",
+                    "duration": 55
+          },
+          {
+                    "order": 3,
+                    "description": "Pendant ce temps, faites cuire les cubes de giraumon séparément dans de l'eau salée jusqu'à tendreté (15 min). Réduisez en purée très lisse avec le mixeur plongeant. Cette purée de giraumon est l'âme et la couleur dorée de la soupe.",
+                    "duration": 20
+          },
+          {
+                    "order": 4,
+                    "description": "Incorporez la purée de giraumon dans le bouillon de bœuf. Ajoutez les carottes, les navets, le chou et la banane plantain. Mélangez et laissez cuire à feu moyen 20 minutes supplémentaires.",
+                    "duration": 20
+          },
+          {
+                    "order": 5,
+                    "description": "Ajoutez les pâtes (macaroni ou spaghetti coupés) directement dans la soupe. Continuez la cuisson 10 minutes jusqu'à ce que les pâtes soient al dente. La soupe doit être épaisse, dorée, parfumée — d'un jaune-orangé intense comme un lever de soleil haïtien.",
+                    "duration": 10
+          },
+          {
+                    "order": 6,
+                    "description": "Retirez le piment entier et les brins de thym. Retirez les os à moelle, récupérez la moelle et remettez-la dans la soupe pour plus d'onctuosité. Rectifiez le sel. Servez en très grands bols, brûlant, le matin du 1er janvier ou n'importe quel jour où vous avez besoin de sentir la liberté.",
+                    "duration": 5
+          }
+],
+        suggestedAccompaniments: [
+          "Pain haïtien grillé",
+          "Pikliz haïtien",
+          "Tranches d'avocat mûr",
+          "Jus de fruits tropicaux"
+],
+        practicalTips: [
+          "La marinade au citron vert (épis) est une technique haïtienne incontournable — ne la négligez pas.",
+          "Si vous ne trouvez pas de giraumon, la courge butternut est l'équivalent le plus proche en goût et texture.",
+          "La soupe est toujours meilleure le lendemain matin — préparez-la la veille pour la déguster chauffée le 1er janvier."
+],
+        intro: "Soupe de courge giraumon, bœuf et légumes. Depuis le 1er janvier 1804, elle célèbre la première République noire du monde.",
+        description: "La Soupe Joumou est l'un des plats les plus chargés de sens politique et symbolique de l'histoire culinaire mondiale. Sous la colonisation française à Saint-Domingue, le joumou — courge giraumon — était un légume réservé exclusivement aux maîtres blancs. Les esclaves africains, qui cultivaient cette courge de leurs mains enchaînées, n'avaient pas le droit d'en manger. Le joumou était littéralement un marqueur de l'oppression raciale par l'alimentation. Le 1er janvier 1804, lorsque Jean-Jacques Dessalines proclama l'indépendance d'Haïti — après la seule révolte d'esclaves victorieuse de l'histoire moderne — la première geste symbolique du peuple haïtien fut de préparer et de consommer collectivement une soupe de joumou. Cet acte culinaire était une déclaration politique aussi puissante qu'un manifeste : \"ce que vous nous avez interdit de manger, nous le mangeons aujourd'hui, libres.\" Depuis 220 ans, chaque famille haïtienne prépare la Soupe Joumou le 1er janvier, peu importe où elle se trouve dans le monde. En 2021, l'UNESCO a inscrit cette tradition sur la liste du patrimoine culturel immatériel de l'humanité. Une soupe qui a changé le monde."
+,       tags: ["viande"]
+    },
+
+    {
+        id: "feroce-avocat",
+        title: "Féroce d'Avocat",
+        origin: "Martinique",
+        region: "Caraïbes et Antilles",
+        aliases: ["feroce","avocat morue","chiquetaille avocat","guacamole antillais"],
+        image: "/images/feroce-avocat.webp",
+        prepTime: 30,
+        cookTime: 0,
+        servings: 4,
+        difficulty: "Facile",
+        ingredients: [
+          {
+                    "name": "avocats bien mûrs",
+                    "quantity": "4 grands"
+          },
+          {
+                    "name": "morue salée",
+                    "quantity": "300 g"
+          },
+          {
+                    "name": "farine de manioc (ou cassave râpée)",
+                    "quantity": "80 g"
+          },
+          {
+                    "name": "piment habanero",
+                    "quantity": "1 petit (très fort, à doser avec précaution)"
+          },
+          {
+                    "name": "cébettes (oignons verts)",
+                    "quantity": "4 tiges"
+          },
+          {
+                    "name": "jus de citron vert",
+                    "quantity": "3 cuillères à soupe"
+          },
+          {
+                    "name": "huile",
+                    "quantity": "3 cuillères à soupe"
+          },
+          {
+                    "name": "sel",
+                    "quantity": "avec précaution"
+          }
+],
+        utensils: [
+          "Grand bol",
+          "Fourchette ou pilon",
+          "Poêle",
+          "Couteau"
+],
+        steps: [
+          {
+                    "order": 1,
+                    "description": "Dessalez la morue : plongez-la dans de l'eau froide 24 heures en changeant l'eau 3 fois. Ou pour accélérer : faites-la bouillir 20 minutes dans de l'eau non salée, en changeant l'eau une fois à mi-cuisson. Égouttez, laissez tiédir.",
+                    "duration": 20
+          },
+          {
+                    "order": 2,
+                    "description": "Faites griller les filets de morue dessalée à la poêle sèche 3 minutes de chaque côté — ou effilochez-les directement à la main si vous préférez la version non grillée, plus douce. La version grillée apporte une note fumée caractéristique. Retirez chaque arête avec soin. Émiettez finement.",
+                    "duration": 10
+          },
+          {
+                    "order": 3,
+                    "description": "Coupez les avocats en deux, retirez le noyau. Prélevez la chair à la cuillère dans un grand bol. Arrosez immédiatement du jus de citron vert pour éviter l'oxydation et pour commencer à \"cuire\" légèrement l'avocat à l'acide.",
+                    "duration": 5
+          },
+          {
+                    "order": 4,
+                    "description": "Hachez très finement le piment habanero (portez des gants si possible — l'huile capsaïcine brûle les yeux). Ajoutez-le progressivement à votre convenance dans le bol d'avocat avec les cébettes émincées. Mélangez grossièrement à la fourchette — le Féroce doit rester rustique, pas lisse comme une purée.",
+                    "duration": 5
+          },
+          {
+                    "order": 5,
+                    "description": "Incorporez la morue effilochée et l'huile dans le bol. Ajoutez la farine de manioc en pluie et mélangez délicatement. La farine de manioc va absorber le jus de l'avocat et former une texture granuleuse et absorbante absolument caractéristique du Féroce — irremplaçable.",
+                    "duration": 5
+          },
+          {
+                    "order": 6,
+                    "description": "Goûtez et rectifiez le sel avec prudence (la morue sale encore). Réfrigérez 15 minutes minimum avant de servir. Dressez dans des verrines, sur des tranches de pain grillé, ou dans les coques des avocats vidées. Servez frais.",
+                    "duration": 15
+          }
+],
+        suggestedAccompaniments: [
+          "Pain au beurre grillé",
+          "Rhum vieux en apéritif",
+          "Ti-punch martiniquais",
+          "Salade verte simple"
+],
+        practicalTips: [
+          "La farine de manioc (cherchez \"cassave\" ou \"tapioca granulé\" en épicerie antillaise) est absolument irremplaçable — c'est elle qui fait le Féroce.",
+          "Le piment habanero est l'un des plus forts au monde — commencez par un quart et ajustez.",
+          "Préparez juste avant de servir — l'avocat s'oxyde même avec le citron vert si attendu trop longtemps."
+],
+        intro: "Avocat pilé, farine de manioc, morue effilochée, piment habanero. La férocité du goût, douceur de l'esclavage sublimée.",
+        description: "Le Féroce d'Avocat est un paradoxe culinaire fascinant : son nom évoque la violence, mais sa texture est soyeuse et généreuse. \"Féroce\" vient directement du créole martiniquais et désigne la force piquante du piment habanero qui traverse le palais. Ce plat incarne parfaitement l'histoire de la Martinique : l'avocat, originaire du Mexique et cultivé dès le XVIe siècle dans les Antilles françaises, était consommé par toutes les classes sociales. La morue salée, comme partout dans les Caraïbes, était la protéine des esclaves — bon marché, durable, peu estimée des maîtres. La farine de manioc (cassave) est l'ingrédient qui révèle les racines amérindiennes de ce plat : les Arawaks et les Caraïbes, peuples autochtones des Antilles, transformaient le manioc en farine depuis des millénaires. Cette farine, que les esclaves africains adoptèrent rapidement, apporte ici une texture granuleuse et absorbante absolument unique. Le piment habanero — l'un des plus puissants du monde — fut introduit par les Arawaks et devint le marqueur identitaire de la cuisine antillaise. Mélanger ces trois cultures — africaine, amérindienne, européenne — dans un plat servi froid, sans cuisson, est un acte de synthèse culinaire qui raconte quatre siècles de Martinique en quelques bouchées."
+,       tags: ["poisson-fruits-de-mer"]
+    },
+
+    {
+        id: "ti-nain-morue",
+        title: "Ti-Nain Morue",
+        origin: "Martinique / Guadeloupe",
+        region: "Caraïbes et Antilles",
+        aliases: ["ti nain lanmori","tinain morue","banane verte et morue","chiquetaille ti nain"],
+        image: "/images/ti-nain-morue.webp",
+        prepTime: 20,
+        cookTime: 20,
+        servings: 4,
+        difficulty: "Facile",
+        ingredients: [
+          {
+                    "name": "bananes plantain vertes (ti-nain)",
+                    "quantity": "4 moyennes"
+          },
+          {
+                    "name": "morue salée",
+                    "quantity": "400 g"
+          },
+          {
+                    "name": "oignon rouge",
+                    "quantity": "1, émincé finement"
+          },
+          {
+                    "name": "cébettes",
+                    "quantity": "4 tiges, émincées"
+          },
+          {
+                    "name": "piment antillais (ou habanero)",
+                    "quantity": "1/2, haché finement"
+          },
+          {
+                    "name": "jus de citron vert",
+                    "quantity": "4 cuillères à soupe"
+          },
+          {
+                    "name": "huile",
+                    "quantity": "4 cuillères à soupe"
+          },
+          {
+                    "name": "persil frais",
+                    "quantity": "1 petite botte"
+          },
+          {
+                    "name": "sel",
+                    "quantity": "avec précaution"
+          }
+],
+        utensils: [
+          "Casserole",
+          "Poêle",
+          "Couteau",
+          "Grand bol"
+],
+        steps: [
+          {
+                    "order": 1,
+                    "description": "Dessalez la morue 24 heures dans de l'eau froide en changeant l'eau 3 fois. Pour accélérer : faites-la bouillir 20 minutes dans de l'eau non salée, égouttez, recommencez 10 minutes avec de l'eau fraîche. La morue doit rester légèrement salée — c'est son caractère.",
+                    "duration": 20
+          },
+          {
+                    "order": 2,
+                    "description": "Faites cuire la morue dessalée dans de l'eau frémissante (sans ébullition) pendant 10 minutes. Égouttez, laissez tiédir. Effilochez entièrement à la main — retirez chaque arête, chaque peau. La chiquetaille doit être en fils fins et réguliers, pas en gros morceaux.",
+                    "duration": 15
+          },
+          {
+                    "order": 3,
+                    "description": "Préparez la chiquetaille : dans le grand bol, mélangez la morue effilochée avec l'oignon rouge émincé, les cébettes, le piment haché, le jus de citron vert, l'huile et le persil ciselé. Mélangez bien, goûtez, ajustez le piment et le citron. Réservez au moins 15 minutes pour que les saveurs se mêlent.",
+                    "duration": 15
+          },
+          {
+                    "order": 4,
+                    "description": "Faites cuire les bananes plantain vertes DANS LEUR PEAU dans de l'eau salée bouillante pendant 20 minutes. La peau protège la chair et permet une cuisson à l'étouffée qui donne au ti-nain une texture ferme, dense et légèrement amidonnée — très différente d'une banane pelée bouillie.",
+                    "duration": 20
+          },
+          {
+                    "order": 5,
+                    "description": "Égouttez les bananes. Incisez la peau dans le sens de la longueur et pelez — attention à la vapeur. Coupez en rondelles épaisses ou servez entières. Dressez les ti-nain dans les assiettes et nappez généreusement de chiquetaille de morue. L'acidité du citron et le piquant du piment réveillent la douceur amidonnée de la banane.",
+                    "duration": 5
+          }
+],
+        suggestedAccompaniments: [
+          "Tranches d'avocat",
+          "Salade de christophine râpée",
+          "Ti-punch ou jus de fruit de la passion",
+          "Riz créole"
+],
+        practicalTips: [
+          "Cuisez TOUJOURS le ti-nain dans sa peau — c'est la règle absolue pour obtenir la bonne texture.",
+          "La chiquetaille préparée la veille et réfrigérée une nuit est encore meilleure — les arômes se concentrent.",
+          "Plus la banane est verte (non mûre), plus elle sera ferme et authentique au goût."
+],
+        intro: "Banane plantain verte bouillie et chiquetaille de morue. L'assiette quotidienne des gens de mer et des champs antillais.",
+        description: "Le Ti-Nain Morue est le plat le plus humble et le plus quotidien des Antilles françaises — et peut-être le plus profondément chargé d'histoire. \"Ti-nain\" signifie en créole \"petite banane\" et désigne spécifiquement la banane plantain verte, immature, bouillie dans sa peau. La chiquetaille (ou chiquetaille de morue) désigne la morue effilochée finement assaisonnée de piment, d'oignon, de citron et d'huile. Ce plat est né dans les cases des esclaves des plantations de canne à sucre de la Martinique et de la Guadeloupe au XVIIIe siècle. La banane plantain verte — riche en amidon résistant, satiante, peu coûteuse — constituait la ration de base distribuée aux captifs africains dans les plantations françaises. La morue salée était l'autre pilier de cette ration de survie. Mais les esclaves, avec génie, transformèrent cette maigre pitance en un plat vivant, pimenté, acidulé, parfumé. La chiquetaille porte en elle-même la créativité née de la contrainte : effilocher la morue à la main, l'assaisonner d'herbes fraîches, la corser de piment — c'était refuser la résignation. Aujourd'hui, le Ti-Nain Morue est servi dans tous les boucheries et snacks antillais comme en-cas du matin. Il accompagne aussi bien le rhum du petit-déjeuner que le déjeuner dominical. Simple, direct, inoubliable."
+,       tags: ["poisson-fruits-de-mer"]
+    },
+
+    {
+        id: "bebele",
+        title: "Bébélé de Marie-Galante",
+        origin: "Guadeloupe / Marie-Galante",
+        region: "Caraïbes et Antilles",
+        aliases: ["bebele","bélbélé","dombres aux tripes","chaudron marie-galante","tripes au fruit a pain"],
+        image: "/images/bebele.webp",
+        prepTime: 45,
+        cookTime: 90,
+        servings: 6,
+        difficulty: "Difficile",
+        ingredients: [
+          {
+                    "name": "Tripes de bœuf fraîches nettoyées et blanchies",
+                    "quantity": "600g"
+          },
+          {
+                    "name": "Morceau de queue ou groin de porc salé dessalé",
+                    "quantity": "300g"
+          },
+          {
+                    "name": "Bananes plantains vertes (ti-nains)",
+                    "quantity": "4"
+          },
+          {
+                    "name": "Fruit à pain mûr à point",
+                    "quantity": "1/2 fruit (400g)"
+          },
+          {
+                    "name": "Farine de blé (pour les dombrés)",
+                    "quantity": "250g"
+          },
+          {
+                    "name": "Eau tiède salée (pour les dombrés)",
+                    "quantity": "120ml"
+          },
+          {
+                    "name": "Citrons verts frais (pour le lavage des abats)",
+                    "quantity": "3"
+          },
+          {
+                    "name": "Cives fraîches (oignons-pays) hachées",
+                    "quantity": "1 bouquet"
+          },
+          {
+                    "name": "Gousses d'ail pilées",
+                    "quantity": "5"
+          },
+          {
+                    "name": "Feuilles de bois d'Inde (ou laurier et 4-épices)",
+                    "quantity": "3 feuilles"
+          },
+          {
+                    "name": "Thym frais",
+                    "quantity": "4 branches"
+          },
+          {
+                    "name": "Piment Bonda Man Jak entier intact",
+                    "quantity": "1"
+          },
+          {
+                    "name": "Huile de roucou ou végétale",
+                    "quantity": "2 c.à.s"
+          },
+          {
+                    "name": "Sel et poivre noir du moulin",
+                    "quantity": "Au goût"
+          }
+],
+        utensils: [
+          "Grande marmite en fonte ou chaudron",
+          "Saladier pour pétrir les dombrés",
+          "Écumoire"
+],
+        steps: [
+          {
+                    "order": 1,
+                    "description": "Le lavage et blanchiment rituel des tripes : Frotter vigoureusement les tripes de bœuf avec le gros sel et le jus des citrons verts pour éliminer toute odeur forte. Les rincer plusieurs fois, puis les faire blanchir 15 minutes dans de l'eau bouillante vinaigrée. Égoutter et découper en fines lanières régulières.",
+                    "duration": 20
+          },
+          {
+                    "order": 2,
+                    "description": "Le bouillon de salaisons : Dans la grande marmite, faire suer dans l'huile les cives, l'ail pilé, le thym et le bois d'Inde. Ajouter les tripes et la queue de porc dessalée taillée en morceaux. Couvrir avec 2,5 litres d'eau. Laisser frémir à couvert à feu moyen pendant 1 heure jusqu'à ce que les viandes soient tendres et fondantes.",
+                    "duration": 60
+          },
+          {
+                    "order": 3,
+                    "description": "Préparation des vivres de case : Peler les bananes vertes (ti-nains) et le fruit à pain. Les couper en morceaux réguliers. Les incorporer dans le bouillon frémissant.",
+                    "duration": 10
+          },
+          {
+                    "order": 4,
+                    "description": "Le roulage des dombrés : Dans un saladier, pétrir la farine avec l'eau tiède salée pour obtenir une pâte lisse et non collante. Prélever des petites noisettes de pâte et les faire rouler entre vos paumes pour confectionner de petits fuseaux allongés.",
+                    "duration": 10
+          },
+          {
+                    "order": 5,
+                    "description": "Le plongeon des dombrés et le piment vigie : Jeter les dombrés un à un dans la marmite en ébullition pour qu'ils ne s'agglutinent pas. Déposer délicatement le piment Bonda Man Jak entier sur le dessus sans l'entailler. Laisser mijoter 20 minutes : l'amidon des dombrés et du fruit à pain va velouter la sauce.",
+                    "duration": 20
+          },
+          {
+                    "order": 6,
+                    "description": "Dressage et dégustation : Retirer le piment avec précaution. Goûter le bouillon, rectifier le sel et le poivre. Servir fumant dans des assiettes creuses avec un filet de jus de citron vert frais.",
+                    "duration": 5
+          }
+],
+        suggestedAccompaniments: [
+          "Piment écrasé à part",
+          "Tranches d'avocat pays bien crémeux",
+          "Verre de sirop de batterie ou ti-punch traditionnel"
+],
+        practicalTips: [
+          "Le lavage minutieux des tripes au citron vert et au gros sel est la clé de voûte du Bébélé : il assure un bouillon pur, soyeux et sans amertume.",
+          "Surveillez attentivement le piment entier : il ne doit sous aucun prétexte éclater pendant la cuisson pour préserver la douceur du bouillon."
+],
+        intro: "Le chaudron sacré de Marie-Galante : abats de bœuf, bananes vertes, fruit à pain et dombrés roulés à la main, nés du cinquième quartier des sucreries.",
+        description: "Le Bébélé est le trésor gastronomique absolu de Marie-Galante, la « grande galette » sucrière de l'archipel guadeloupéen. Son histoire plonge au plus profond de l'horreur et de l'ingéniosité du système de plantation. Lors de l'abattage des bœufs indispensables pour actionner les moulins à canne et tirer les lourds cabrouets, les colons s'octroyaient les pièces nobles de la viande. Les esclaves n'avaient droit qu'aux abats délaissés : la panse, les tripes, les pieds et les morceaux dits du « cinquième quartier ». Loin de se résigner, les mères africaines déployèrent un savoir-faire extraordinaire : elles lavèrent rituellement ces abats avec le jus des citrons sauvages et le sel pour les purifier, puis les firent confire des heures durant avec ce que fournissaient leurs minuscules jardins de case — bananes vertes (ti-nains), fruit à pain et petites boulettes de farine et d'eau étirées à la main (les dombrés). Le mot « bébélé » dérive probablement d'une langue bantoue d'Afrique centrale signifiant ragoût ou mélange abondant. Aujourd'hui, ce plat de misère transcendé est le roi des dimanches et des fêtes marie-galantaises, célébrant la victoire de la dignité humaine et de l'amour nourricier sur l'oppression."
+,       tags: ["viande"]
     }
 ];
 
